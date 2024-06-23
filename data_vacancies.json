@@ -1,0 +1,886 @@
+{
+  'items': [
+    {
+      'id': '101964637',
+      'premium': False,
+      'name': 'Digital Transformation Officer / Лидер цифровой трансформации',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-06-14T19:28:58+0300',
+      'created_at': '2024-06-14T19:28:58+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=101964637',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/101964637?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/101964637',
+      'relations': [],
+      'employer': {
+        'id': '205',
+        'name': 'Марс',
+        'url': 'https://api.hh.ru/employers/205',
+        'alternate_url': 'https://hh.ru/employer/205',
+        'logo_urls': {
+          '240': 'https://img.hhcdn.ru/employer-logo/3188405.png',
+          '90': 'https://img.hhcdn.ru/employer-logo/3188404.png',
+          'original': 'https://img.hhcdn.ru/employer-logo-original/686818.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=205',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт создания стратегии и управления цифровой трансформацией. Функциональные и технические навыки в области управления системами и инфраструктурой (построение архитектуры данных...',
+        'responsibility': 'Разрабатывать и внедрять цифровую стратегию с учетом технологических трендов. Создавать цифровую культуру – формировать цифровую среду, проводить сотрудников через изменения и...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '36',
+          'name': 'Директор по информационным технологиям (CIO)'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'moreThan6',
+        'name': 'Более 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '101966245',
+      'premium': False,
+      'name': 'Руководитель отдела по внедрению цифровых решений \\ Digital Technologies Head',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-06-14T20:12:45+0300',
+      'created_at': '2024-06-14T20:12:45+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=101966245',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/101966245?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/101966245',
+      'relations': [],
+      'employer': {
+        'id': '205',
+        'name': 'Марс',
+        'url': 'https://api.hh.ru/employers/205',
+        'alternate_url': 'https://hh.ru/employer/205',
+        'logo_urls': {
+          '240': 'https://img.hhcdn.ru/employer-logo/3188405.png',
+          '90': 'https://img.hhcdn.ru/employer-logo/3188404.png',
+          'original': 'https://img.hhcdn.ru/employer-logo-original/686818.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=205',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы в сфере информационных технологий от 7 лет. Понимание бизнеса и обладание функциональными знаниями (знания в области Supply Chain...',
+        'responsibility': 'Заниматься определением и согласованием цифровой стратегии в рамках отведенных бизнес-функций. Обеспечивать вовлечение и сотрудничество со стейкхолдерами по стратегическим вопросам. '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '107',
+          'name': 'Руководитель проектов'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'moreThan6',
+        'name': 'Более 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '102094417',
+      'premium': False,
+      'name': 'Старший менеджер по корпоративным коммуникациям / Senior Communications Manager',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Москва',
+        'street': 'Ленинградский проспект',
+        'building': '72к1',
+        'lat': 55.805791,
+        'lng': 37.520339,
+        'description': None,
+        'raw': 'Москва, Ленинградский проспект, 72к1',
+        'metro': {
+          'station_name': 'Сокол',
+          'line_name': 'Замоскворецкая',
+          'station_id': '2.133',
+          'line_id': '2',
+          'lat': 55.805564,
+          'lng': 37.515245
+        },
+        'metro_stations': [
+          {
+            'station_name': 'Сокол',
+            'line_name': 'Замоскворецкая',
+            'station_id': '2.133',
+            'line_id': '2',
+            'lat': 55.805564,
+            'lng': 37.515245
+          }
+        ],
+        'id': '1956240'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-06-17T12:49:22+0300',
+      'created_at': '2024-06-17T12:49:22+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102094417',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/102094417?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/102094417',
+      'relations': [],
+      'employer': {
+        'id': '205',
+        'name': 'Марс',
+        'url': 'https://api.hh.ru/employers/205',
+        'alternate_url': 'https://hh.ru/employer/205',
+        'logo_urls': {
+          '240': 'https://img.hhcdn.ru/employer-logo/3188405.png',
+          '90': 'https://img.hhcdn.ru/employer-logo/3188404.png',
+          'original': 'https://img.hhcdn.ru/employer-logo-original/686818.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=205',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Высшее образование (предпочтительно в области связей с общественностью/журналистики). Опыт работы в области корпоративных коммуникаций не менее 5 (пяти) лет. ',
+        'responsibility': 'Разрабатывать и обеспечивать эффективную реализацию коммуникационных стратегий в приоритетных направлениях бизнесаю. Разрабатывать и реализовывать стратегию внешних и внутренних коммуникаций в...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '102301639',
+      'premium': False,
+      'name': 'Finance Project Manager / Проектный менеджер в финансовую функцию',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Москва',
+        'street': 'Ленинградский проспект',
+        'building': '72к1',
+        'lat': 55.805791,
+        'lng': 37.520339,
+        'description': None,
+        'raw': 'Москва, Ленинградский проспект, 72к1',
+        'metro': {
+          'station_name': 'Сокол',
+          'line_name': 'Замоскворецкая',
+          'station_id': '2.133',
+          'line_id': '2',
+          'lat': 55.805564,
+          'lng': 37.515245
+        },
+        'metro_stations': [
+          {
+            'station_name': 'Сокол',
+            'line_name': 'Замоскворецкая',
+            'station_id': '2.133',
+            'line_id': '2',
+            'lat': 55.805564,
+            'lng': 37.515245
+          }
+        ],
+        'id': '1956240'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-06-19T18:08:39+0300',
+      'created_at': '2024-06-19T18:08:39+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102301639',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/102301639?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/102301639',
+      'relations': [],
+      'employer': {
+        'id': '205',
+        'name': 'Марс',
+        'url': 'https://api.hh.ru/employers/205',
+        'alternate_url': 'https://hh.ru/employer/205',
+        'logo_urls': {
+          '240': 'https://img.hhcdn.ru/employer-logo/3188405.png',
+          '90': 'https://img.hhcdn.ru/employer-logo/3188404.png',
+          'original': 'https://img.hhcdn.ru/employer-logo-original/686818.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=205',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт работы от 3-х лет в аналогичной роли. Продвинутый пользователь Power BI (Power Query & BI, Power Automate, Excel Macros...',
+        'responsibility': 'Анализировать текущие бизнес процессы отделов MRFS и самостоятельно выявлять области для улучшений («узкие» места, шаги, требующие автоматизации, для повышения эффективности...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '137',
+          'name': 'Финансовый менеджер'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '102352004',
+      'premium': False,
+      'name': 'CI Expert (Transport Logistics) / Эксперт по поддержке постоянных улучшений транспортной логистики',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-06-20T14:55:35+0300',
+      'created_at': '2024-06-20T14:55:35+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102352004',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/102352004?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/102352004',
+      'relations': [],
+      'employer': {
+        'id': '205',
+        'name': 'Марс',
+        'url': 'https://api.hh.ru/employers/205',
+        'alternate_url': 'https://hh.ru/employer/205',
+        'logo_urls': {
+          '240': 'https://img.hhcdn.ru/employer-logo/3188405.png',
+          '90': 'https://img.hhcdn.ru/employer-logo/3188404.png',
+          'original': 'https://img.hhcdn.ru/employer-logo-original/686818.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=205',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Образование: Высшее экономическое, гуманитарное или техническое образование. Развитые навыки переговоров. Опыт работы: 3-5 года в логистике, опыт работы с...',
+        'responsibility': 'Детально разбираться в особенностях управления транспортной и складской логистики, понимать взаимодействия всех подразделений в цепочке товарного обеспечения. Разрабатывать и внедрять...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '67',
+          'name': 'Менеджер по логистике, менеджер по ВЭД'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '102431633',
+      'premium': False,
+      'name': 'POSM Services Leader / Лидер по развитию сервисов в направлении торгового оборудования',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Москва',
+        'street': 'Ленинградский проспект',
+        'building': '72к1',
+        'lat': 55.805791,
+        'lng': 37.520339,
+        'description': None,
+        'raw': 'Москва, Ленинградский проспект, 72к1',
+        'metro': {
+          'station_name': 'Сокол',
+          'line_name': 'Замоскворецкая',
+          'station_id': '2.133',
+          'line_id': '2',
+          'lat': 55.805564,
+          'lng': 37.515245
+        },
+        'metro_stations': [
+          {
+            'station_name': 'Сокол',
+            'line_name': 'Замоскворецкая',
+            'station_id': '2.133',
+            'line_id': '2',
+            'lat': 55.805564,
+            'lng': 37.515245
+          }
+        ],
+        'id': '1956240'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-06-21T13:26:49+0300',
+      'created_at': '2024-06-21T13:26:49+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102431633',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/102431633?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/102431633',
+      'relations': [],
+      'employer': {
+        'id': '205',
+        'name': 'Марс',
+        'url': 'https://api.hh.ru/employers/205',
+        'alternate_url': 'https://hh.ru/employer/205',
+        'logo_urls': {
+          '240': 'https://img.hhcdn.ru/employer-logo/3188405.png',
+          '90': 'https://img.hhcdn.ru/employer-logo/3188404.png',
+          'original': 'https://img.hhcdn.ru/employer-logo-original/686818.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=205',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт разработки и производства торгового оборудования. Опыт кросс-функционального взаимодействия (отдел продаж/маркетинг/Customer маркетинг). Аналитические способности и умение транслировать...',
+        'responsibility': 'Лидером в определении возможностей направления развития сервисов торгового оборудования через понимание стратегии компании, возможностей рынка, поставщиков и глобальных сообществ. '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '101954388',
+      'premium': False,
+      'name': 'Руководитель направления по управлению данными \\ Data Management Head',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-06-14T16:37:06+0300',
+      'created_at': '2024-06-14T16:37:06+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=101954388',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/101954388?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/101954388',
+      'relations': [],
+      'employer': {
+        'id': '205',
+        'name': 'Марс',
+        'url': 'https://api.hh.ru/employers/205',
+        'alternate_url': 'https://hh.ru/employer/205',
+        'logo_urls': {
+          '240': 'https://img.hhcdn.ru/employer-logo/3188405.png',
+          '90': 'https://img.hhcdn.ru/employer-logo/3188404.png',
+          'original': 'https://img.hhcdn.ru/employer-logo-original/686818.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=205',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Опыт в области управления данными от 5 лет. Опыт управления командой от 2 лет. Понимание архитектуры данных и моделирования (модель...',
+        'responsibility': 'Определять концепцию сбора, обработки и использования данных в соответствии с целями всей организации. Работать с ключевыми партнерами по бизнес-функциям...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '40',
+          'name': 'Другое'
+        }
+      ],
+      'accept_incomplete_resumes': True,
+      'experience': {
+        'id': 'moreThan6',
+        'name': 'Более 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '102338999',
+      'premium': False,
+      'name': 'Аналитик данных в R&D / Data Analyst R&D',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-06-20T10:38:33+0300',
+      'created_at': '2024-06-20T10:38:33+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102338999',
+      'branding': {
+        'type': 'MAKEUP',
+        'tariff': None
+      },
+      'show_logo_in_search': True,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/102338999?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/102338999',
+      'relations': [],
+      'employer': {
+        'id': '205',
+        'name': 'Марс',
+        'url': 'https://api.hh.ru/employers/205',
+        'alternate_url': 'https://hh.ru/employer/205',
+        'logo_urls': {
+          '240': 'https://img.hhcdn.ru/employer-logo/3188405.png',
+          '90': 'https://img.hhcdn.ru/employer-logo/3188404.png',
+          'original': 'https://img.hhcdn.ru/employer-logo-original/686818.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=205',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Высшее образование: прикладная математика, информатика, обработка данных или IT. От 2-х лет опыта работы в разработке решений в области...',
+        'responsibility': 'Способствовать, основанному на данных, пониманию качества и привлекательности кормов для домашних животных и их владельцев и поиску возможностей для улучшений...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '156',
+          'name': 'BI-аналитик, аналитик данных'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '97648256',
+      'premium': False,
+      'name': 'Customer Development Director X5 / Директор по управлению ключевым клиентом X5',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': {
+        'city': 'Москва',
+        'street': 'Ленинградский проспект',
+        'building': '72к1',
+        'lat': 55.805791,
+        'lng': 37.520339,
+        'description': None,
+        'raw': 'Москва, Ленинградский проспект, 72к1',
+        'metro': {
+          'station_name': 'Сокол',
+          'line_name': 'Замоскворецкая',
+          'station_id': '2.133',
+          'line_id': '2',
+          'lat': 55.805564,
+          'lng': 37.515245
+        },
+        'metro_stations': [
+          {
+            'station_name': 'Сокол',
+            'line_name': 'Замоскворецкая',
+            'station_id': '2.133',
+            'line_id': '2',
+            'lat': 55.805564,
+            'lng': 37.515245
+          }
+        ],
+        'id': '1956240'
+      },
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-06-21T17:28:16+0300',
+      'created_at': '2024-06-21T17:28:16+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=97648256',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/97648256?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/97648256',
+      'relations': [],
+      'employer': {
+        'id': '205',
+        'name': 'Марс',
+        'url': 'https://api.hh.ru/employers/205',
+        'alternate_url': 'https://hh.ru/employer/205',
+        'logo_urls': {
+          '240': 'https://img.hhcdn.ru/employer-logo/3188405.png',
+          '90': 'https://img.hhcdn.ru/employer-logo/3188404.png',
+          'original': 'https://img.hhcdn.ru/employer-logo-original/686818.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=205',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Высшее образование. Опыт работы в области FMCG продаж: от 5 лет в менеджерских ролях; не менее 3 лет опыта управления...',
+        'responsibility': 'Разрабатывать долгосрочный план развития бизнеса с клиентом для достижения среднесрочных целей компании на Российском рынке. Формировать условия для реализации задач...'
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '70',
+          'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between3And6',
+        'name': 'От 3 до 6 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    },
+    {
+      'id': '94896847',
+      'premium': False,
+      'name': 'Региональный специалист по работе с ключевыми клиентами / Regional Key Account Executive',
+      'department': None,
+      'has_test': False,
+      'response_letter_required': False,
+      'area': {
+        'id': '1',
+        'name': 'Москва',
+        'url': 'https://api.hh.ru/areas/1'
+      },
+      'salary': None,
+      'type': {
+        'id': 'open',
+        'name': 'Открытая'
+      },
+      'address': None,
+      'response_url': None,
+      'sort_point_distance': None,
+      'published_at': '2024-06-15T19:54:11+0300',
+      'created_at': '2024-06-15T19:54:11+0300',
+      'archived': False,
+      'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=94896847',
+      'show_logo_in_search': None,
+      'insider_interview': None,
+      'url': 'https://api.hh.ru/vacancies/94896847?host=hh.ru',
+      'alternate_url': 'https://hh.ru/vacancy/94896847',
+      'relations': [],
+      'employer': {
+        'id': '205',
+        'name': 'Марс',
+        'url': 'https://api.hh.ru/employers/205',
+        'alternate_url': 'https://hh.ru/employer/205',
+        'logo_urls': {
+          '240': 'https://img.hhcdn.ru/employer-logo/3188405.png',
+          '90': 'https://img.hhcdn.ru/employer-logo/3188404.png',
+          'original': 'https://img.hhcdn.ru/employer-logo-original/686818.png'
+        },
+        'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=205',
+        'accredited_it_employer': False,
+        'trusted': True
+      },
+      'snippet': {
+        'requirement': 'Высшее образование. Опыт работы в продажах. Навык переговоров c ключевыми клиентами будет преимуществом. Знание английского языка на уровне intermediate. ',
+        'responsibility': 'Участвовать в переговорах с региональными офисами ключевых клиентов используя навыки проведения презентаций и переговоров, с целью установления долгосрочных деловых отношений. '
+      },
+      'contacts': None,
+      'schedule': {
+        'id': 'fullDay',
+        'name': 'Полный день'
+      },
+      'working_days': [],
+      'working_time_intervals': [],
+      'working_time_modes': [],
+      'accept_temporary': False,
+      'professional_roles': [
+        {
+          'id': '70',
+          'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+        }
+      ],
+      'accept_incomplete_resumes': False,
+      'experience': {
+        'id': 'between1And3',
+        'name': 'От 1 года до 3 лет'
+      },
+      'employment': {
+        'id': 'full',
+        'name': 'Полная занятость'
+      },
+      'adv_response_url': None,
+      'is_adv_vacancy': False,
+      'adv_context': None
+    }
+  ],
+  'found': 77,
+  'pages': 8,
+  'page': 0,
+  'per_page': 10,
+  'clusters': None,
+  'arguments': None,
+  'fixes': None,
+  'suggests': None,
+  'alternate_url': 'https://hh.ru/search/vacancy?area=1&employer_id=205&enable_snippets=true&items_on_page=10'
+}
+[]
+
+Process finished with exit code 0

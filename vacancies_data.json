@@ -1,0 +1,84 @@
+[
+  {
+    'vacancy_id': 101964637,
+    'vacancies_name': 'Digital Transformation Officer / Лидер цифровой трансформации',
+    'payment': None,
+    'requirement': 'Опыт создания стратегии и управления цифровой трансформацией. Функциональные и технические навыки в области управления системами и инфраструктурой (построение архитектуры данных...',
+    'vacancies_url': 'https://hh.ru/vacancy/101964637',
+    'employer_id': 205
+  },
+  {
+    'vacancy_id': 101966245,
+    'vacancies_name': 'Руководитель отдела по внедрению цифровых решений \\ Digital Technologies Head',
+    'payment': None,
+    'requirement': 'Опыт работы в сфере информационных технологий от 7 лет. Понимание бизнеса и обладание функциональными знаниями (знания в области Supply Chain...',
+    'vacancies_url': 'https://hh.ru/vacancy/101966245',
+    'employer_id': 205
+  },
+  {
+    'vacancy_id': 102094417,
+    'vacancies_name': 'Старший менеджер по корпоративным коммуникациям / Senior Communications Manager',
+    'payment': None,
+    'requirement': 'Высшее образование (предпочтительно в области связей с общественностью/журналистики). Опыт работы в области корпоративных коммуникаций не менее 5 (пяти) лет. ',
+    'vacancies_url': 'https://hh.ru/vacancy/102094417',
+    'employer_id': 205
+  },
+  {
+    'vacancy_id': 102301639,
+    'vacancies_name': 'Finance Project Manager / Проектный менеджер в финансовую функцию',
+    'payment': None,
+    'requirement': 'Опыт работы от 3-х лет в аналогичной роли. Продвинутый пользователь Power BI (Power Query & BI, Power Automate, Excel Macros...',
+    'vacancies_url': 'https://hh.ru/vacancy/102301639',
+    'employer_id': 205
+  },
+  {
+    'vacancy_id': 102352004,
+    'vacancies_name': 'CI Expert (Transport Logistics) / Эксперт по поддержке постоянных улучшений транспортной логистики',
+    'payment': None,
+    'requirement': 'Образование: Высшее экономическое, гуманитарное или техническое образование. Развитые навыки переговоров. Опыт работы: 3-5 года в логистике, опыт работы с...',
+    'vacancies_url': 'https://hh.ru/vacancy/102352004',
+    'employer_id': 205
+  },
+  {
+    'vacancy_id': 102431633,
+    'vacancies_name': 'POSM Services Leader / Лидер по развитию сервисов в направлении торгового оборудования',
+    'payment': None,
+    'requirement': 'Опыт разработки и производства торгового оборудования. Опыт кросс-функционального взаимодействия (отдел продаж/маркетинг/Customer маркетинг). Аналитические способности и умение транслировать...',
+    'vacancies_url': 'https://hh.ru/vacancy/102431633',
+    'employer_id': 205
+  },
+  {
+    'vacancy_id': 101954388,
+    'vacancies_name': 'Руководитель направления по управлению данными \\ Data Management Head',
+    'payment': None,
+    'requirement': 'Опыт в области управления данными от 5 лет. Опыт управления командой от 2 лет. Понимание архитектуры данных и моделирования (модель...',
+    'vacancies_url': 'https://hh.ru/vacancy/101954388',
+    'employer_id': 205
+  },
+  {
+    'vacancy_id': 102338999,
+    'vacancies_name': 'Аналитик данных в R&D / Data Analyst R&D',
+    'payment': None,
+    'requirement': 'Высшее образование: прикладная математика, информатика, обработка данных или IT. От 2-х лет опыта работы в разработке решений в области...',
+    'vacancies_url': 'https://hh.ru/vacancy/102338999',
+    'employer_id': 205
+  },
+  {
+    'vacancy_id': 97648256,
+    'vacancies_name': 'Customer Development Director X5 / Директор по управлению ключевым клиентом X5',
+    'payment': None,
+    'requirement': 'Высшее образование. Опыт работы в области FMCG продаж: от 5 лет в менеджерских ролях; не менее 3 лет опыта управления...',
+    'vacancies_url': 'https://hh.ru/vacancy/97648256',
+    'employer_id': 205
+  },
+  {
+    'vacancy_id': 94896847,
+    'vacancies_name': 'Региональный специалист по работе с ключевыми клиентами / Regional Key Account Executive',
+    'payment': None,
+    'requirement': 'Высшее образование. Опыт работы в продажах. Навык переговоров c ключевыми клиентами будет преимуществом. Знание английского языка на уровне intermediate. ',
+    'vacancies_url': 'https://hh.ru/vacancy/94896847',
+    'employer_id': 205
+  }
+]
+
+Process finished with exit code 0
