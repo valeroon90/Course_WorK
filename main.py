@@ -22,7 +22,7 @@ def main():
 
     data = get_hh_ru_data(company_ids)
     #print(data)
-    date_2 = get_employer(2180)
+    date_2 = get_employer(company_ids)
     print(date_2)
    # create_database('hh_data', params)
    # save_data_to_database(data, 'hh_data', params)

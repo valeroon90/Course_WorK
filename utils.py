@@ -40,18 +40,20 @@ def get_hh_ru_data(company_ids: List[str]) -> List[Dict[str, Any]]:
     return data
 
 
-def get_employer(employer_id):
-    """Получаем данные о работодателях по API"""
+def get_employer(company_ids):
+    """Получаем краткие данные о наших работодателях по API"""
+    data = []
+    for employer_id in company_ids:
+        url = f"https://api.hh.ru/employers/{employer_id}"
+        data_vacancies = requests.get(url).json()
 
-    url = f"https://api.hh.ru/employers/{employer_id}"
-    data_vacancies = requests.get(url).json()
-    hh_company = {
-        "employer_id": int(employer_id),
-        "company_name": data_vacancies['name'],
-        "open_vacancies": data_vacancies['open_vacancies']
-    }
-
-    return hh_company
+        hh_company = {
+            "employer_id": int(employer_id),
+            "company_name": data_vacancies['name'],
+            "open_vacancies": data_vacancies['open_vacancies']
+        }
+        data.append(hh_company)
+    return data
 
 
 def getEmployers():
