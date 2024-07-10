@@ -134,17 +134,49 @@ def save_data_to_database(data: list[dict[str, Any]], database_name: str, params
     conn = psycopg2.connect(dbname=database_name, **params)
 
     with conn.cursor() as cur:
-        for employers in data:
-            employer_info = employers[employers]
-            cur.execute(
-                """
-                INSERT INTO employers (company_name, open_vacancies, employer_url, description)
-                VALUES (%s, %s, %s, %s)
-                RETURNING employer_id
-                """,
-                (employer_info['name'], employer_info['open_vacancies'], employer_info['alternate_url'],
-                 employer_info['description'])
-            )
+        for text in data:
+            employer_data = text['employers']
+            #print(employer_data)
+            for emp in employer_data:
+                cur.execute(
+                    """
+                    INSERT INTO employers (company_name, open_vacancies, employer_url, description)
+                    VALUES (%s, %s, %s, %s)
+                    RETURNING employer_id
+                    """,
+                    (emp['name'], emp['open_vacancies'], emp['alternate_url'],
+                    emp['description'])
+                )
+
+            employer_id = cur.fetchone()[0]
+
+            vacancies_data = text['vacancies']
+            #print(vacancies_data)
+            for vacancy in vacancies_data:
+                items = vacancy['items']
+                #print(items)
+                for item in items:
+                    if item['salary'] is None:
+                        cur.execute(
+                            """
+                            INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
+                            VALUES (%s, %s, %s, %s)
+                            """,
+                            (employer_id, item['name'], 0,
+                            item['alternate_url'])
+                        )
+                    else:
+                        cur.execute(
+                            """
+                            INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
+                            VALUES (%s, %s, %s, %s)
+                            """,
+                            (employer_id, item['name'], item['salary']['from'],
+                            item['alternate_url'])
+                        )
+
+    conn.commit()
+    conn.close()
 
 
 

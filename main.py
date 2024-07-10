@@ -11,10 +11,10 @@ def main():
         '23040',
         '1579449',
         '2180',
-        '1057',
-        '1180',
-        '208707',
-        '205'
+        #'1057',
+        #'1180',
+        #'208707',
+        #'205'
     ]
 
     params = config()
@@ -24,8 +24,8 @@ def main():
     #print(data)
     #date_2 = get_employer(company_ids)
     #print(date_2)
-    #create_database('hh', params)
-    #save_data_to_database(data, 'hh', params)
+    create_database('hh', params)
+    save_data_to_database(data, 'hh', params)
 
 if __name__ == '__main__':
     main()

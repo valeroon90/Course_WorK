@@ -1,0 +1,5487 @@
+[
+  {
+    'items': [
+      {
+        'id': '103486616',
+        'premium': False,
+        'name': 'Quantitative/Data Analyst (Junior/Junior+)',
+        'department': None,
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Большой Кисловский переулок',
+          'building': '13',
+          'lat': 55.755333,
+          'lng': 37.606397,
+          'description': None,
+          'raw': 'Москва, Большой Кисловский переулок, 13',
+          'metro': {
+            'station_name': 'Охотный ряд',
+            'line_name': 'Сокольническая',
+            'station_id': '1.98',
+            'line_id': '1',
+            'lat': 55.757228,
+            'lng': 37.615078
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Охотный ряд',
+              'line_name': 'Сокольническая',
+              'station_id': '1.98',
+              'line_id': '1',
+              'lat': 55.757228,
+              'lng': 37.615078
+            }
+          ],
+          'id': '14026'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-08T11:02:52+0300',
+        'created_at': '2024-07-08T11:02:52+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103486616',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103486616?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103486616',
+        'relations': [],
+        'employer': {
+          'id': '4307',
+          'name': 'Московская Биржа',
+          'url': 'https://api.hh.ru/employers/4307',
+          'alternate_url': 'https://hh.ru/employer/4307',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/4128821.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4128820.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/922065.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4307',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Математическое/техническое образование. Знание теории вероятностей и математической статистики. Понимание основ работы фондового рынка (что такое акции, облигации и т...',
+          'responsibility': 'Мы храним в депозитарии цифровые записи о каждом активе, который торгуется на бирже. Мы следим за тем, чтобы все операции...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '156',
+            'name': 'BI-аналитик, аналитик данных'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103379979',
+        'premium': False,
+        'name': 'Стажер в департамент внутреннего контроля',
+        'department': None,
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Спартаковская улица',
+          'building': '12',
+          'lat': 55.77194,
+          'lng': 37.675127,
+          'description': None,
+          'raw': 'Москва, Спартаковская улица, 12',
+          'metro': {
+            'station_name': 'Бауманская',
+            'line_name': 'Арбатско-Покровская',
+            'station_id': '3.17',
+            'line_id': '3',
+            'lat': 55.772405,
+            'lng': 37.67904
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Бауманская',
+              'line_name': 'Арбатско-Покровская',
+              'station_id': '3.17',
+              'line_id': '3',
+              'lat': 55.772405,
+              'lng': 37.67904
+            }
+          ],
+          'id': '560484'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-05T17:45:18+0300',
+        'created_at': '2024-07-05T17:45:18+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103379979',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103379979?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103379979',
+        'relations': [],
+        'employer': {
+          'id': '4307',
+          'name': 'Московская Биржа',
+          'url': 'https://api.hh.ru/employers/4307',
+          'alternate_url': 'https://hh.ru/employer/4307',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/4128821.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4128820.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/922065.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4307',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Ты нам подойдешь, если. Тебя интересует сфера комплаенс, и ты хочешь в ней развиваться. Ты в том числе студент от...',
+          'responsibility': 'Участие в проведении расследований и сбор материалов для подготовки заключений. Участие в осуществлении функций по направлению ПНИИИМР. Анализ изменений законодательства. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '158',
+            'name': 'Комплаенс-менеджер'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'probation',
+          'name': 'Стажировка'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '102216199',
+        'premium': False,
+        'name': 'Frontend-разработчик',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Большой Кисловский переулок',
+          'building': '13',
+          'lat': 55.755333,
+          'lng': 37.606397,
+          'description': None,
+          'raw': 'Москва, Большой Кисловский переулок, 13',
+          'metro': {
+            'station_name': 'Охотный ряд',
+            'line_name': 'Сокольническая',
+            'station_id': '1.98',
+            'line_id': '1',
+            'lat': 55.757228,
+            'lng': 37.615078
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Охотный ряд',
+              'line_name': 'Сокольническая',
+              'station_id': '1.98',
+              'line_id': '1',
+              'lat': 55.757228,
+              'lng': 37.615078
+            }
+          ],
+          'id': '14026'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-18T17:56:20+0300',
+        'created_at': '2024-06-18T17:56:20+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102216199',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/102216199?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/102216199',
+        'relations': [],
+        'employer': {
+          'id': '4307',
+          'name': 'Московская Биржа',
+          'url': 'https://api.hh.ru/employers/4307',
+          'alternate_url': 'https://hh.ru/employer/4307',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/4128821.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4128820.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/922065.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4307',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Ответственность за результат. Опыт промышленной разработки (от 2 лет). Твердое знание javascript, React, Redux, включая последние стандарты. Твердое знание и...',
+          'responsibility': 'Мы храним в депозитарии цифровые записи о каждом активе, который торгуется на бирже. Мы следим за тем, чтобы все операции...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '96',
+            'name': 'Программист, разработчик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '102621371',
+        'premium': False,
+        'name': 'Руководитель направления по клиентской аналитике',
+        'department': None,
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-24T18:33:43+0300',
+        'created_at': '2024-06-24T18:33:43+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102621371',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/102621371?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/102621371',
+        'relations': [],
+        'employer': {
+          'id': '4307',
+          'name': 'Московская Биржа',
+          'url': 'https://api.hh.ru/employers/4307',
+          'alternate_url': 'https://hh.ru/employer/4307',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/4128821.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4128820.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/922065.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4307',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт работы в финансовой компании желательно, банк, страхование. Опыт работы с BI аналитикой и аналитикой в Excel. Умение агригировать информацию...',
+          'responsibility': 'Группа «Московская Биржа» оказывает весь спектр услуг, связанных с выпуском, учетом и обращением цифровых финансовых активов (это цифровые права, учет...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '157',
+            'name': 'Руководитель отдела аналитики'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '99615366',
+        'premium': False,
+        'name': 'Бизнес-аналитик / Junior product manager',
+        'department': None,
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Большой Кисловский переулок',
+          'building': '13',
+          'lat': 55.755333,
+          'lng': 37.606397,
+          'description': None,
+          'raw': 'Москва, Большой Кисловский переулок, 13',
+          'metro': {
+            'station_name': 'Охотный ряд',
+            'line_name': 'Сокольническая',
+            'station_id': '1.98',
+            'line_id': '1',
+            'lat': 55.757228,
+            'lng': 37.615078
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Охотный ряд',
+              'line_name': 'Сокольническая',
+              'station_id': '1.98',
+              'line_id': '1',
+              'lat': 55.757228,
+              'lng': 37.615078
+            }
+          ],
+          'id': '14026'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-19T13:49:43+0300',
+        'created_at': '2024-06-19T13:49:43+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=99615366',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/99615366?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/99615366',
+        'relations': [],
+        'employer': {
+          'id': '4307',
+          'name': 'Московская Биржа',
+          'url': 'https://api.hh.ru/employers/4307',
+          'alternate_url': 'https://hh.ru/employer/4307',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/4128821.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4128820.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/922065.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4307',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Критическое и системное мышление. Умение аргументированно отстаивать свою точку зрения. Опыт работы хотя бы с одним из языков программирования (базовые...',
+          'responsibility': 'Формирование ключевых метрик и проведение предварительного анализа различных инициатив по направлению цифровизации и развитию цифровых каналов (Сайт, Личные кабинеты). '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '150',
+            'name': 'Бизнес-аналитик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '102866005',
+        'premium': False,
+        'name': 'Стажёр-аналитик',
+        'department': None,
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': None,
+          'street': None,
+          'building': None,
+          'lat': None,
+          'lng': None,
+          'description': None,
+          'raw': None,
+          'metro': {
+            'station_name': 'Охотный ряд',
+            'line_name': 'Сокольническая',
+            'station_id': '1.98',
+            'line_id': '1',
+            'lat': 55.757228,
+            'lng': 37.615078
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Охотный ряд',
+              'line_name': 'Сокольническая',
+              'station_id': '1.98',
+              'line_id': '1',
+              'lat': 55.757228,
+              'lng': 37.615078
+            }
+          ],
+          'id': '14026'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-27T16:15:04+0300',
+        'created_at': '2024-06-27T16:15:04+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102866005',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/102866005?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/102866005',
+        'relations': [],
+        'employer': {
+          'id': '4307',
+          'name': 'Московская Биржа',
+          'url': 'https://api.hh.ru/employers/4307',
+          'alternate_url': 'https://hh.ru/employer/4307',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/4128821.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4128820.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/922065.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4307',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Незаконченное высшее образование в сфере информационных технологий, технического или финансового направлений. Способность работать с большими объёмами информации, способность к анализу...',
+          'responsibility': 'Взаимодействие с ИТ командами и внутренними заказчиками. Участие в формировании Базы Знаний (Confluence). Подготовка и написание инструкций, по текущим и...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '10',
+            'name': 'Аналитик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'probation',
+          'name': 'Стажировка'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '98601996',
+        'premium': False,
+        'name': 'Аналитик данных (Junior)',
+        'department': None,
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Спартаковская улица',
+          'building': '12',
+          'lat': 55.77194,
+          'lng': 37.675127,
+          'description': None,
+          'raw': 'Москва, Спартаковская улица, 12',
+          'metro': {
+            'station_name': 'Бауманская',
+            'line_name': 'Арбатско-Покровская',
+            'station_id': '3.17',
+            'line_id': '3',
+            'lat': 55.772405,
+            'lng': 37.67904
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Бауманская',
+              'line_name': 'Арбатско-Покровская',
+              'station_id': '3.17',
+              'line_id': '3',
+              'lat': 55.772405,
+              'lng': 37.67904
+            }
+          ],
+          'id': '560484'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-02T12:54:30+0300',
+        'created_at': '2024-07-02T12:54:30+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=98601996',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/98601996?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/98601996',
+        'relations': [],
+        'employer': {
+          'id': '4307',
+          'name': 'Московская Биржа',
+          'url': 'https://api.hh.ru/employers/4307',
+          'alternate_url': 'https://hh.ru/employer/4307',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/4128821.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4128820.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/922065.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4307',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Базовые знания и опыт использования SQL на уровне извлечения и преобразования данных. Теоретические знания реляционных баз данных и SQL.',
+          'responsibility': 'Мы храним в депозитарии цифровые записи о каждом активе, который торгуется на бирже. Мы следим за тем, чтобы все операции...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '156',
+            'name': 'BI-аналитик, аналитик данных'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '95080981',
+        'premium': False,
+        'name': 'Старший инженер-тестировщик',
+        'department': None,
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Большой Кисловский переулок',
+          'building': '13',
+          'lat': 55.755333,
+          'lng': 37.606397,
+          'description': None,
+          'raw': 'Москва, Большой Кисловский переулок, 13',
+          'metro': {
+            'station_name': 'Охотный ряд',
+            'line_name': 'Сокольническая',
+            'station_id': '1.98',
+            'line_id': '1',
+            'lat': 55.757228,
+            'lng': 37.615078
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Охотный ряд',
+              'line_name': 'Сокольническая',
+              'station_id': '1.98',
+              'line_id': '1',
+              'lat': 55.757228,
+              'lng': 37.615078
+            }
+          ],
+          'id': '14026'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-08T11:52:52+0300',
+        'created_at': '2024-07-08T11:52:52+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=95080981',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/95080981?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/95080981',
+        'relations': [],
+        'employer': {
+          'id': '4307',
+          'name': 'Московская Биржа',
+          'url': 'https://api.hh.ru/employers/4307',
+          'alternate_url': 'https://hh.ru/employer/4307',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/4128821.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4128820.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/922065.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4307',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Тестировали веб-приложения более трех лет. Имели опыт организации процесса тестирования. Занимались тестированием RESTful API от двух лет. ',
+          'responsibility': 'Мы храним в депозитарии цифровые записи о каждом активе, который торгуется на бирже. Мы следим за тем, чтобы все операции...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'flexible',
+          'name': 'Гибкий график'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '124',
+            'name': 'Тестировщик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103535333',
+        'premium': False,
+        'name': 'Руководитель по работе с партнерами',
+        'department': None,
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Спартаковская улица',
+          'building': '12',
+          'lat': 55.77194,
+          'lng': 37.675127,
+          'description': None,
+          'raw': 'Москва, Спартаковская улица, 12',
+          'metro': {
+            'station_name': 'Бауманская',
+            'line_name': 'Арбатско-Покровская',
+            'station_id': '3.17',
+            'line_id': '3',
+            'lat': 55.772405,
+            'lng': 37.67904
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Бауманская',
+              'line_name': 'Арбатско-Покровская',
+              'station_id': '3.17',
+              'line_id': '3',
+              'lat': 55.772405,
+              'lng': 37.67904
+            }
+          ],
+          'id': '560484'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-08T19:10:06+0300',
+        'created_at': '2024-07-08T19:10:06+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103535333',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103535333?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103535333',
+        'relations': [],
+        'employer': {
+          'id': '4307',
+          'name': 'Московская Биржа',
+          'url': 'https://api.hh.ru/employers/4307',
+          'alternate_url': 'https://hh.ru/employer/4307',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/4128821.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4128820.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/922065.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4307',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Отличное знание механик и игроков рынка арбитража финансового трафика в РФ. Опыт работы в Партнерской Сети или Финансовом Маркетплейсе будет...',
+          'responsibility': 'Мы храним в депозитарии цифровые записи о каждом активе, который торгуется на бирже. Мы следим за тем, чтобы все операции...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '40',
+            'name': 'Другое'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '100035167',
+        'premium': False,
+        'name': 'Аналитик (разработка стратегии)',
+        'department': None,
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Большой Кисловский переулок',
+          'building': '13',
+          'lat': 55.755333,
+          'lng': 37.606397,
+          'description': None,
+          'raw': 'Москва, Большой Кисловский переулок, 13',
+          'metro': {
+            'station_name': 'Охотный ряд',
+            'line_name': 'Сокольническая',
+            'station_id': '1.98',
+            'line_id': '1',
+            'lat': 55.757228,
+            'lng': 37.615078
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Охотный ряд',
+              'line_name': 'Сокольническая',
+              'station_id': '1.98',
+              'line_id': '1',
+              'lat': 55.757228,
+              'lng': 37.615078
+            }
+          ],
+          'id': '14026'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-19T15:44:22+0300',
+        'created_at': '2024-06-19T15:44:22+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=100035167',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/100035167?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/100035167',
+        'relations': [],
+        'employer': {
+          'id': '4307',
+          'name': 'Московская Биржа',
+          'url': 'https://api.hh.ru/employers/4307',
+          'alternate_url': 'https://hh.ru/employer/4307',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/4128821.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/4128820.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/922065.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4307',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт работы от 2 лет в стратегических подразделениях. Средний или продвинутый уровень финансового моделирования. Продвинутое владение Excel, PowerPoint. ',
+          'responsibility': 'Мы храним в депозитарии цифровые записи о каждом активе, который торгуется на бирже. Мы следим за тем, чтобы все операции...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '134',
+            'name': 'Финансовый аналитик, инвестиционный аналитик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      }
+    ],
+    'found': 183,
+    'pages': 19,
+    'page': 0,
+    'per_page': 10,
+    'clusters': None,
+    'arguments': None,
+    'fixes': None,
+    'suggests': None,
+    'alternate_url': 'https://hh.ru/search/vacancy?area=1&employer_id=4307&enable_snippets=true&items_on_page=10'
+  },
+  {
+    'items': [
+      {
+        'id': '95841927',
+        'premium': False,
+        'name': 'Специалист по назначению встреч / Менеджер по работе с клиентами (Удаленно, без поиска)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 80000,
+          'to': 150000,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'улица Расковой',
+          'building': '34с14',
+          'lat': 55.791486,
+          'lng': 37.581173,
+          'description': None,
+          'raw': 'Москва, улица Расковой, 34с14',
+          'metro': {
+            'station_name': 'Савёловская',
+            'line_name': 'Серпуховско-Тимирязевская',
+            'station_id': '9.128',
+            'line_id': '9',
+            'lat': 55.794054,
+            'lng': 37.587163
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Серпуховско-Тимирязевская',
+              'station_id': '9.128',
+              'line_id': '9',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.685',
+              'line_id': '97',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'МЦД-1',
+              'station_id': '131.699',
+              'line_id': '131',
+              'lat': 55.793936,
+              'lng': 37.587038
+            }
+          ],
+          'id': '5698576'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-04T10:16:03+0300',
+        'created_at': '2024-07-04T10:16:03+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=95841927',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/95841927?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/95841927',
+        'relations': [],
+        'employer': {
+          'id': '4787018',
+          'name': 'Caltat',
+          'url': 'https://api.hh.ru/employers/4787018',
+          'alternate_url': 'https://hh.ru/employer/4787018',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/993621.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5595284.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5595285.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4787018',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Умеет вести телефонные переговоры. Коммуникабельный и клиентоориентированный. Имеет грамотную устную и письменную речь.',
+          'responsibility': 'Консультация клиентов. Назначение встреч (без выезда). Работа в CRM системе.'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'remote',
+          'name': 'Удаленная работа'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '70',
+            'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+          }
+        ],
+        'accept_incomplete_resumes': True,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '102712931',
+        'premium': False,
+        'name': 'Junior Web-дизайнер (офис)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': True,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 60000,
+          'to': None,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'улица Расковой',
+          'building': '34с14',
+          'lat': 55.791486,
+          'lng': 37.581173,
+          'description': None,
+          'raw': 'Москва, улица Расковой, 34с14',
+          'metro': {
+            'station_name': 'Савёловская',
+            'line_name': 'Серпуховско-Тимирязевская',
+            'station_id': '9.128',
+            'line_id': '9',
+            'lat': 55.794054,
+            'lng': 37.587163
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Серпуховско-Тимирязевская',
+              'station_id': '9.128',
+              'line_id': '9',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.685',
+              'line_id': '97',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'МЦД-1',
+              'station_id': '131.699',
+              'line_id': '131',
+              'lat': 55.793936,
+              'lng': 37.587038
+            }
+          ],
+          'id': '5698576'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-25T17:55:19+0300',
+        'created_at': '2024-06-25T17:55:19+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102712931',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/102712931?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/102712931',
+        'relations': [],
+        'employer': {
+          'id': '4787018',
+          'name': 'Caltat',
+          'url': 'https://api.hh.ru/employers/4787018',
+          'alternate_url': 'https://hh.ru/employer/4787018',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/993621.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5595284.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5595285.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4787018',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Обязателен опыт разработки коммерческих приложений. Владеешь Figma (Компоненты, Стили, Auto layouts). Имеешь свое портфолио. Adobe Photoshop. На высоком уровне понимаешь...',
+          'responsibility': 'Помощь Product owner. Разрабатывать, развивать и улучшать существующий функционал внутренних продуктов компании. Разрабатывать и реализовывать новые продукты. Проектировать пользовательские сценарии...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '34',
+            'name': 'Дизайнер, художник'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '101726367',
+        'premium': False,
+        'name': 'Стажер Python Fullstack (офис)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'улица Расковой',
+          'building': '34с14',
+          'lat': 55.791486,
+          'lng': 37.581173,
+          'description': None,
+          'raw': 'Москва, улица Расковой, 34с14',
+          'metro': {
+            'station_name': 'Савёловская',
+            'line_name': 'Серпуховско-Тимирязевская',
+            'station_id': '9.128',
+            'line_id': '9',
+            'lat': 55.794054,
+            'lng': 37.587163
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Серпуховско-Тимирязевская',
+              'station_id': '9.128',
+              'line_id': '9',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.685',
+              'line_id': '97',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'МЦД-1',
+              'station_id': '131.699',
+              'line_id': '131',
+              'lat': 55.793936,
+              'lng': 37.587038
+            }
+          ],
+          'id': '5698576'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-11T11:38:30+0300',
+        'created_at': '2024-06-11T11:38:30+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=101726367',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/101726367?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/101726367',
+        'relations': [],
+        'employer': {
+          'id': '4787018',
+          'name': 'Caltat',
+          'url': 'https://api.hh.ru/employers/4787018',
+          'alternate_url': 'https://hh.ru/employer/4787018',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/993621.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5595284.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5595285.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4787018',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Знание основ HTML, CSS, JavaScript. Желание развиваться в направлении front-end разработки. Основы Python, идеально — умение писать классы, но если...',
+          'responsibility': 'Разработка и поддержка front-end части веб-приложений. Изучение и применение фреймворка Django в процессе работы. Работа с системой контроля...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '96',
+            'name': 'Программист, разработчик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'probation',
+          'name': 'Стажировка'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '97886787',
+        'premium': False,
+        'name': 'Руководитель отдела продаж / Ведущий менеджер по продажам (Офис, без личных продаж)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 150000,
+          'to': None,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'улица Расковой',
+          'building': '34с14',
+          'lat': 55.791486,
+          'lng': 37.581173,
+          'description': None,
+          'raw': 'Москва, улица Расковой, 34с14',
+          'metro': {
+            'station_name': 'Савёловская',
+            'line_name': 'Серпуховско-Тимирязевская',
+            'station_id': '9.128',
+            'line_id': '9',
+            'lat': 55.794054,
+            'lng': 37.587163
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Серпуховско-Тимирязевская',
+              'station_id': '9.128',
+              'line_id': '9',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.685',
+              'line_id': '97',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'МЦД-1',
+              'station_id': '131.699',
+              'line_id': '131',
+              'lat': 55.793936,
+              'lng': 37.587038
+            }
+          ],
+          'id': '5698576'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-09T10:17:56+0300',
+        'created_at': '2024-07-09T10:17:56+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=97886787',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/97886787?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/97886787',
+        'relations': [],
+        'employer': {
+          'id': '4787018',
+          'name': 'Caltat',
+          'url': 'https://api.hh.ru/employers/4787018',
+          'alternate_url': 'https://hh.ru/employer/4787018',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/993621.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5595284.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5595285.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4787018',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'К постоянному развитию в сфере продаж. С уверенными навыками телефонных переговоров. С грамотным стилем деловой коммуникации. Увлеченн своей профессией. ',
+          'responsibility': 'Управлять группой продаж. Обучать и адаптировать менеджеров отдела продаж. Выстраивать и оптимизировать бизнес-процессы. Вести отчетность. Подбирать сотрудников.'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '106',
+            'name': 'Руководитель отдела продаж'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '100705163',
+        'premium': False,
+        'name': 'Специалист по сопровождению клиентов (работа удаленно)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 80000,
+          'to': 150000,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'улица Расковой',
+          'building': '34с14',
+          'lat': 55.791486,
+          'lng': 37.581173,
+          'description': None,
+          'raw': 'Москва, улица Расковой, 34с14',
+          'metro': {
+            'station_name': 'Савёловская',
+            'line_name': 'Серпуховско-Тимирязевская',
+            'station_id': '9.128',
+            'line_id': '9',
+            'lat': 55.794054,
+            'lng': 37.587163
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Серпуховско-Тимирязевская',
+              'station_id': '9.128',
+              'line_id': '9',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.685',
+              'line_id': '97',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'МЦД-1',
+              'station_id': '131.699',
+              'line_id': '131',
+              'lat': 55.793936,
+              'lng': 37.587038
+            }
+          ],
+          'id': '5698576'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-09T09:31:52+0300',
+        'created_at': '2024-07-09T09:31:52+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=100705163',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/100705163?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/100705163',
+        'relations': [],
+        'employer': {
+          'id': '4787018',
+          'name': 'Caltat',
+          'url': 'https://api.hh.ru/employers/4787018',
+          'alternate_url': 'https://hh.ru/employer/4787018',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/993621.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5595284.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5595285.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4787018',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Умеет хорошо устанавливать контакт. Владеет грамотной письменной и устной речью. Имеет развитые коммуникативные навыки.',
+          'responsibility': 'Консультация клиентов. Проведение телефонных презентаций. Ведение клиентов в CRM системе. Согласование времени встречи.'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'remote',
+          'name': 'Удаленная работа'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '70',
+            'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+          }
+        ],
+        'accept_incomplete_resumes': True,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '100323082',
+        'premium': False,
+        'name': 'Менеджер по назначению встреч (без поиска) / Специалист по работе с клиентами (удаленно)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 70000,
+          'to': 150000,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'улица Расковой',
+          'building': '34с14',
+          'lat': 55.791486,
+          'lng': 37.581173,
+          'description': None,
+          'raw': 'Москва, улица Расковой, 34с14',
+          'metro': {
+            'station_name': 'Савёловская',
+            'line_name': 'Серпуховско-Тимирязевская',
+            'station_id': '9.128',
+            'line_id': '9',
+            'lat': 55.794054,
+            'lng': 37.587163
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Серпуховско-Тимирязевская',
+              'station_id': '9.128',
+              'line_id': '9',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.685',
+              'line_id': '97',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'МЦД-1',
+              'station_id': '131.699',
+              'line_id': '131',
+              'lat': 55.793936,
+              'lng': 37.587038
+            }
+          ],
+          'id': '5698576'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-02T17:12:18+0300',
+        'created_at': '2024-07-02T17:12:18+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=100323082',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/100323082?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/100323082',
+        'relations': [],
+        'employer': {
+          'id': '4787018',
+          'name': 'Caltat',
+          'url': 'https://api.hh.ru/employers/4787018',
+          'alternate_url': 'https://hh.ru/employer/4787018',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/993621.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5595284.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5595285.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4787018',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Умеет вести телефонные переговоры. Коммуникабельный и клиентоориентированный. Имеет грамотную устную и письменную речь.',
+          'responsibility': 'Консультация клиентов. Назначение встреч (без выезда). Работа в CRM системе.'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'remote',
+          'name': 'Удаленная работа'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '70',
+            'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+          }
+        ],
+        'accept_incomplete_resumes': True,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '100091011',
+        'premium': False,
+        'name': 'Супервайзер / Руководитель отдела продаж (офис, без личных продаж)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 150000,
+          'to': None,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'улица Расковой',
+          'building': '34с14',
+          'lat': 55.791486,
+          'lng': 37.581173,
+          'description': None,
+          'raw': 'Москва, улица Расковой, 34с14',
+          'metro': {
+            'station_name': 'Савёловская',
+            'line_name': 'Серпуховско-Тимирязевская',
+            'station_id': '9.128',
+            'line_id': '9',
+            'lat': 55.794054,
+            'lng': 37.587163
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Серпуховско-Тимирязевская',
+              'station_id': '9.128',
+              'line_id': '9',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.685',
+              'line_id': '97',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'МЦД-1',
+              'station_id': '131.699',
+              'line_id': '131',
+              'lat': 55.793936,
+              'lng': 37.587038
+            }
+          ],
+          'id': '5698576'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-03T09:31:59+0300',
+        'created_at': '2024-07-03T09:31:59+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=100091011',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/100091011?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/100091011',
+        'relations': [],
+        'employer': {
+          'id': '4787018',
+          'name': 'Caltat',
+          'url': 'https://api.hh.ru/employers/4787018',
+          'alternate_url': 'https://hh.ru/employer/4787018',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/993621.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5595284.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5595285.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4787018',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'К постоянному развитию в сфере продаж. С уверенными навыками телефонных переговоров. С грамотным стилем деловой коммуникации. Увлеченн своей профессией. ',
+          'responsibility': 'Управлять группой продаж. Обучать и адаптировать менеджеров отдела продаж. Выстраивать и оптимизировать бизнес-процессы. Вести отчетность. Подбирать сотрудников.'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '106',
+            'name': 'Руководитель отдела продаж'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '102857745',
+        'premium': False,
+        'name': 'Чат менеджер/ менеджер по переписке с клиентами (можно без опыта)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 30000,
+          'to': 50000,
+          'currency': 'RUR',
+          'gross': True
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'улица Расковой',
+          'building': '34с14',
+          'lat': 55.791486,
+          'lng': 37.581173,
+          'description': None,
+          'raw': 'Москва, улица Расковой, 34с14',
+          'metro': {
+            'station_name': 'Савёловская',
+            'line_name': 'Серпуховско-Тимирязевская',
+            'station_id': '9.128',
+            'line_id': '9',
+            'lat': 55.794054,
+            'lng': 37.587163
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Серпуховско-Тимирязевская',
+              'station_id': '9.128',
+              'line_id': '9',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.685',
+              'line_id': '97',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'МЦД-1',
+              'station_id': '131.699',
+              'line_id': '131',
+              'lat': 55.793936,
+              'lng': 37.587038
+            }
+          ],
+          'id': '5698576'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-27T14:43:14+0300',
+        'created_at': '2024-06-27T14:43:14+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102857745',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/102857745?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/102857745',
+        'relations': [],
+        'employer': {
+          'id': '4787018',
+          'name': 'Caltat',
+          'url': 'https://api.hh.ru/employers/4787018',
+          'alternate_url': 'https://hh.ru/employer/4787018',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/993621.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5595284.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5595285.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4787018',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Грамотный русский язык. Усидчивость, стрессоустойчивость. Работа из офиса.',
+          'responsibility': 'Переписка с клиентами. Заведение информации в CRM систему.'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '83',
+            'name': 'Оператор call-центра, специалист контактного центра'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '101880691',
+        'premium': False,
+        'name': 'Помощник бизнес-тренера / Специалист по обучению',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 70000,
+          'to': None,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'улица Расковой',
+          'building': '34с14',
+          'lat': 55.791486,
+          'lng': 37.581173,
+          'description': None,
+          'raw': 'Москва, улица Расковой, 34с14',
+          'metro': {
+            'station_name': 'Савёловская',
+            'line_name': 'Серпуховско-Тимирязевская',
+            'station_id': '9.128',
+            'line_id': '9',
+            'lat': 55.794054,
+            'lng': 37.587163
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Серпуховско-Тимирязевская',
+              'station_id': '9.128',
+              'line_id': '9',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.685',
+              'line_id': '97',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'МЦД-1',
+              'station_id': '131.699',
+              'line_id': '131',
+              'lat': 55.793936,
+              'lng': 37.587038
+            }
+          ],
+          'id': '5698576'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-04T11:12:36+0300',
+        'created_at': '2024-07-04T11:12:36+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=101880691',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/101880691?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/101880691',
+        'relations': [],
+        'employer': {
+          'id': '4787018',
+          'name': 'Caltat',
+          'url': 'https://api.hh.ru/employers/4787018',
+          'alternate_url': 'https://hh.ru/employer/4787018',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/993621.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5595284.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5595285.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4787018',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Владеет грамотной и письменной речью. Любит анализировать, развиваться сам и развивать других. Знает методы обратной связи и принципы обучения. ',
+          'responsibility': 'Мониторинг качества диалогов менеджеров отдела продаж. Прослушка звонков и определение зон роста сотрудников. Проведение сессий по зонам роста. Обучение сотрудников. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '17',
+            'name': 'Бизнес-тренер'
+          }
+        ],
+        'accept_incomplete_resumes': True,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '95842065',
+        'premium': False,
+        'name': 'Менеджер по работе с клиентами (входящий поток) / Специалист по назначению встреч',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 150000,
+          'to': 300000,
+          'currency': 'RUR',
+          'gross': False
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'улица Расковой',
+          'building': '34с14',
+          'lat': 55.791486,
+          'lng': 37.581173,
+          'description': None,
+          'raw': 'Москва, улица Расковой, 34с14',
+          'metro': {
+            'station_name': 'Савёловская',
+            'line_name': 'Серпуховско-Тимирязевская',
+            'station_id': '9.128',
+            'line_id': '9',
+            'lat': 55.794054,
+            'lng': 37.587163
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Серпуховско-Тимирязевская',
+              'station_id': '9.128',
+              'line_id': '9',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.685',
+              'line_id': '97',
+              'lat': 55.794054,
+              'lng': 37.587163
+            },
+            {
+              'station_name': 'Савёловская',
+              'line_name': 'МЦД-1',
+              'station_id': '131.699',
+              'line_id': '131',
+              'lat': 55.793936,
+              'lng': 37.587038
+            }
+          ],
+          'id': '5698576'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-20T16:16:59+0300',
+        'created_at': '2024-06-20T16:16:59+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=95842065',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/95842065?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/95842065',
+        'relations': [],
+        'employer': {
+          'id': '4787018',
+          'name': 'Caltat',
+          'url': 'https://api.hh.ru/employers/4787018',
+          'alternate_url': 'https://hh.ru/employer/4787018',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/993621.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5595284.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5595285.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4787018',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'В молодой и активный коллектив, стремящегося к развитию в продажах. С уверенными навыками телефонных переговоров. С грамотным стилем деловой коммуникации. ',
+          'responsibility': 'Консультация теплых клиентов по наличию объектов у застройщиков. Назначение встреч (без выездов). Деловая переписка в мессенджерах. Работа в CRM системе.'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '70',
+            'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+          }
+        ],
+        'accept_incomplete_resumes': True,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      }
+    ],
+    'found': 30,
+    'pages': 3,
+    'page': 0,
+    'per_page': 10,
+    'clusters': None,
+    'arguments': None,
+    'fixes': None,
+    'suggests': None,
+    'alternate_url': 'https://hh.ru/search/vacancy?area=1&employer_id=4787018&enable_snippets=true&items_on_page=10'
+  },
+  {
+    'items': [
+      {
+        'id': '101760243',
+        'premium': False,
+        'name': 'Стажер UX-исследователь',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Новомосковский административный округ',
+          'street': 'Киевское шоссе, 22-й километр',
+          'building': '6с1',
+          'lat': 55.633816,
+          'lng': 37.431936,
+          'description': None,
+          'raw': 'Новомосковский административный округ, Киевское шоссе, 22-й километр, 6с1',
+          'metro': {
+            'station_name': 'Румянцево',
+            'line_name': 'Сокольническая',
+            'station_id': '1.513',
+            'line_id': '1',
+            'lat': 55.633,
+            'lng': 37.4419
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Румянцево',
+              'line_name': 'Сокольническая',
+              'station_id': '1.513',
+              'line_id': '1',
+              'lat': 55.633,
+              'lng': 37.4419
+            }
+          ],
+          'id': '1400390'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-11T18:48:17+0300',
+        'created_at': '2024-06-11T18:48:17+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=101760243',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/101760243?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/101760243',
+        'relations': [],
+        'employer': {
+          'id': '4219',
+          'name': 'Tele2',
+          'url': 'https://api.hh.ru/employers/4219',
+          'alternate_url': 'https://hh.ru/employer/4219',
+          'logo_urls': {
+            '90': 'https://img.hhcdn.ru/employer-logo/615008.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/615009.jpeg',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/231601.jpg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4219',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Проводить исследования пользовательского опыта с использованием различных методов и инструментов (интервью, опросы, юзабилити-тестирования и т.д.). Систематизировать данные из...',
+          'responsibility': 'Работать с командой над развитием пользовательского опыта — обрабатывать и челленджить брифы, вовлекать заказчиков в процесс исследования, презентовать результаты стейкхолдерам и...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'flexible',
+          'name': 'Гибкий график'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '34',
+            'name': 'Дизайнер, художник'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'probation',
+          'name': 'Стажировка'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103612187',
+        'premium': False,
+        'name': 'Front-End Lead',
+        'department': None,
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Сокольническая линия',
+          'building': 'метро Румянцево',
+          'lat': 55.63292482088349,
+          'lng': 37.43951572485317,
+          'description': None,
+          'raw': 'Москва, Сокольническая линия, метро Румянцево',
+          'metro': {
+            'station_name': 'Румянцево',
+            'line_name': 'Сокольническая',
+            'station_id': '1.513',
+            'line_id': '1',
+            'lat': 55.633,
+            'lng': 37.4419
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Румянцево',
+              'line_name': 'Сокольническая',
+              'station_id': '1.513',
+              'line_id': '1',
+              'lat': 55.633,
+              'lng': 37.4419
+            }
+          ],
+          'id': '6445819'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-09T18:08:26+0300',
+        'created_at': '2024-07-09T18:08:26+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103612187',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103612187?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103612187',
+        'relations': [],
+        'employer': {
+          'id': '4219',
+          'name': 'Tele2',
+          'url': 'https://api.hh.ru/employers/4219',
+          'alternate_url': 'https://hh.ru/employer/4219',
+          'logo_urls': {
+            '90': 'https://img.hhcdn.ru/employer-logo/615008.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/615009.jpeg',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/231601.jpg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4219',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Работа в роли разработчика front-end от 5-и лет. Лидирование командой front-end разработки (от 3 человек). ',
+          'responsibility': 'Разрабатывать и поддерживать программные продукты компании. Проводить Code Review. Оценка трудоемкости задач.'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '96',
+            'name': 'Программист, разработчик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103201830',
+        'premium': False,
+        'name': 'QA Engineer',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-03T11:12:49+0300',
+        'created_at': '2024-07-03T11:12:49+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103201830',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103201830?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103201830',
+        'relations': [],
+        'employer': {
+          'id': '4219',
+          'name': 'Tele2',
+          'url': 'https://api.hh.ru/employers/4219',
+          'alternate_url': 'https://hh.ru/employer/4219',
+          'logo_urls': {
+            '90': 'https://img.hhcdn.ru/employer-logo/615008.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/615009.jpeg',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/231601.jpg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4219',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Знание различных методов и подходов к тестированию, умение применять и адаптировать их для конкретных проектов. Понимание жизненного цикла разработки ПО. ',
+          'responsibility': 'Планировать тестирования: определять области и составлять планы тестирования. Разрабатывать тест-кейсы: создавать подробные сценарии тестирования для проверки функциональности, производительности, безопасности...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '124',
+            'name': 'Тестировщик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '102912754',
+        'premium': False,
+        'name': 'Стажёр отдела внутренних коммуникаций и поддержки HR-бренда',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Сокольническая линия',
+          'building': 'метро Румянцево',
+          'lat': 55.63292482088349,
+          'lng': 37.43951572485317,
+          'description': None,
+          'raw': 'Москва, Сокольническая линия, метро Румянцево',
+          'metro': {
+            'station_name': 'Румянцево',
+            'line_name': 'Сокольническая',
+            'station_id': '1.513',
+            'line_id': '1',
+            'lat': 55.633,
+            'lng': 37.4419
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Румянцево',
+              'line_name': 'Сокольническая',
+              'station_id': '1.513',
+              'line_id': '1',
+              'lat': 55.633,
+              'lng': 37.4419
+            }
+          ],
+          'id': '6445819'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-06-28T11:44:32+0300',
+        'created_at': '2024-06-28T11:44:32+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102912754',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/102912754?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/102912754',
+        'relations': [],
+        'employer': {
+          'id': '4219',
+          'name': 'Tele2',
+          'url': 'https://api.hh.ru/employers/4219',
+          'alternate_url': 'https://hh.ru/employer/4219',
+          'logo_urls': {
+            '90': 'https://img.hhcdn.ru/employer-logo/615008.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/615009.jpeg',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/231601.jpg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4219',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Любить и уметь работать с текстами. Писать с нуля, редактировать и рерайтить надо будет очень много: в разных форматах и...',
+          'responsibility': 'Помогать в организации и подготовке корпоративных мероприятий.'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '40',
+            'name': 'Другое'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'probation',
+          'name': 'Стажировка'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103282622',
+        'premium': False,
+        'name': 'Специалист по взаимодействию с банками',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Сокольническая линия',
+          'building': 'метро Румянцево',
+          'lat': 55.63292482088349,
+          'lng': 37.43951572485317,
+          'description': None,
+          'raw': 'Москва, Сокольническая линия, метро Румянцево',
+          'metro': {
+            'station_name': 'Румянцево',
+            'line_name': 'Сокольническая',
+            'station_id': '1.513',
+            'line_id': '1',
+            'lat': 55.633,
+            'lng': 37.4419
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Румянцево',
+              'line_name': 'Сокольническая',
+              'station_id': '1.513',
+              'line_id': '1',
+              'lat': 55.633,
+              'lng': 37.4419
+            }
+          ],
+          'id': '6445819'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-04T12:02:31+0300',
+        'created_at': '2024-07-04T12:02:31+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103282622',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103282622?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103282622',
+        'relations': [],
+        'employer': {
+          'id': '4219',
+          'name': 'Tele2',
+          'url': 'https://api.hh.ru/employers/4219',
+          'alternate_url': 'https://hh.ru/employer/4219',
+          'logo_urls': {
+            '90': 'https://img.hhcdn.ru/employer-logo/615008.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/615009.jpeg',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/231601.jpg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4219',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт работы от 2 лет на аналогичной должности (Казначейство, бухгалтер по платежам и банковским счетам и т.п.). ',
+          'responsibility': 'Участвовать в сотрудничестве с банками по операционным вопросам. Взаимодействовать с внутренними подразделениями компании по проведению платежей и поддержания работоспособности ЭЦП. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '18',
+            'name': 'Бухгалтер'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103471703',
+        'premium': False,
+        'name': 'Java-разработчик (middle)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-08T09:06:20+0300',
+        'created_at': '2024-07-08T09:06:20+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103471703',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103471703?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103471703',
+        'relations': [],
+        'employer': {
+          'id': '4219',
+          'name': 'Tele2',
+          'url': 'https://api.hh.ru/employers/4219',
+          'alternate_url': 'https://hh.ru/employer/4219',
+          'logo_urls': {
+            '90': 'https://img.hhcdn.ru/employer-logo/615008.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/615009.jpeg',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/231601.jpg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4219',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее образование. Работа в роли разработчика back-end от трёх лет. Проведение декомпозиции и оценки задач, Code Review, работа с...',
+          'responsibility': 'Проводить декомпозицию и оценку задач. Анализировать и выбирать программные и архитектурные решения в соответствии с техническими требованиями. Проводить code review. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '96',
+            'name': 'Программист, разработчик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '101087565',
+        'premium': False,
+        'name': 'Frontend React Developer',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Сокольническая линия',
+          'building': 'метро Румянцево',
+          'lat': 55.63292482088349,
+          'lng': 37.43951572485317,
+          'description': None,
+          'raw': 'Москва, Сокольническая линия, метро Румянцево',
+          'metro': {
+            'station_name': 'Румянцево',
+            'line_name': 'Сокольническая',
+            'station_id': '1.513',
+            'line_id': '1',
+            'lat': 55.633,
+            'lng': 37.4419
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Румянцево',
+              'line_name': 'Сокольническая',
+              'station_id': '1.513',
+              'line_id': '1',
+              'lat': 55.633,
+              'lng': 37.4419
+            }
+          ],
+          'id': '6445819'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-03T10:42:36+0300',
+        'created_at': '2024-07-03T10:42:36+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=101087565',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/101087565?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/101087565',
+        'relations': [],
+        'employer': {
+          'id': '4219',
+          'name': 'Tele2',
+          'url': 'https://api.hh.ru/employers/4219',
+          'alternate_url': 'https://hh.ru/employer/4219',
+          'logo_urls': {
+            '90': 'https://img.hhcdn.ru/employer-logo/615008.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/615009.jpeg',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/231601.jpg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4219',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт frontend-разработки от трёх лет. Отличное знание JS, React, TypeScript. Понимание основ дизайна UI/UX. Понимание принципов и шаблонов...',
+          'responsibility': 'Работать по гибким методологиям в лучшей команде внутренних продуктов. Разрабатывать новый функционал на React, TypeScript. Участвовать в проведении Code Review. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '96',
+            'name': 'Программист, разработчик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103667296',
+        'premium': False,
+        'name': 'Менеджер по финансовой отчетности и учету',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Сокольническая линия',
+          'building': 'метро Румянцево',
+          'lat': 55.63292482088349,
+          'lng': 37.43951572485317,
+          'description': None,
+          'raw': 'Москва, Сокольническая линия, метро Румянцево',
+          'metro': {
+            'station_name': 'Румянцево',
+            'line_name': 'Сокольническая',
+            'station_id': '1.513',
+            'line_id': '1',
+            'lat': 55.633,
+            'lng': 37.4419
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Румянцево',
+              'line_name': 'Сокольническая',
+              'station_id': '1.513',
+              'line_id': '1',
+              'lat': 55.633,
+              'lng': 37.4419
+            }
+          ],
+          'id': '6445819'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-10T16:22:47+0300',
+        'created_at': '2024-07-10T16:22:47+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103667296',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103667296?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103667296',
+        'relations': [],
+        'employer': {
+          'id': '4219',
+          'name': 'Tele2',
+          'url': 'https://api.hh.ru/employers/4219',
+          'alternate_url': 'https://hh.ru/employer/4219',
+          'logo_urls': {
+            '90': 'https://img.hhcdn.ru/employer-logo/615008.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/615009.jpeg',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/231601.jpg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4219',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее образование. Высокий уровень знаний стандартов РСБУ, МСФО, налогового учета и отчетности. Навыки работы с программами: Excel, Word, Visio, PowerPoint. ',
+          'responsibility': 'Заниматься описанием и формализацией учета операций и формирования отчетности по РСБУ, составлять пользовательские инструкции (методики, регламенты). Принимать решения по порядку...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '40',
+            'name': 'Другое'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103072867',
+        'premium': False,
+        'name': 'Руководитель по развитию финансовых и страховых продуктов',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Сокольническая линия',
+          'building': 'метро Румянцево',
+          'lat': 55.63292482088349,
+          'lng': 37.43951572485317,
+          'description': None,
+          'raw': 'Москва, Сокольническая линия, метро Румянцево',
+          'metro': {
+            'station_name': 'Румянцево',
+            'line_name': 'Сокольническая',
+            'station_id': '1.513',
+            'line_id': '1',
+            'lat': 55.633,
+            'lng': 37.4419
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Румянцево',
+              'line_name': 'Сокольническая',
+              'station_id': '1.513',
+              'line_id': '1',
+              'lat': 55.633,
+              'lng': 37.4419
+            }
+          ],
+          'id': '6445819'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-01T17:23:11+0300',
+        'created_at': '2024-07-01T17:23:11+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103072867',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103072867?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103072867',
+        'relations': [],
+        'employer': {
+          'id': '4219',
+          'name': 'Tele2',
+          'url': 'https://api.hh.ru/employers/4219',
+          'alternate_url': 'https://hh.ru/employer/4219',
+          'logo_urls': {
+            '90': 'https://img.hhcdn.ru/employer-logo/615008.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/615009.jpeg',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/231601.jpg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4219',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт работы в сфере IT/телеком/финтех на руководящей позиции от 3-ех лет. Управление жизненным циклом портфеля продуктов. ',
+          'responsibility': 'Развивать партнерские отношения с банками, финансовыми организациями для получения выгодных предложений для абонентов Теlе2. (страховые, инвестиционные, карточные продукты). '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'flexible',
+          'name': 'Гибкий график'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '107',
+            'name': 'Руководитель проектов'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103216275',
+        'premium': False,
+        'name': 'Старший специалист по документообороту и администрированию закупочных процедур',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Сокольническая линия',
+          'building': 'метро Румянцево',
+          'lat': 55.63292482088349,
+          'lng': 37.43951572485317,
+          'description': None,
+          'raw': 'Москва, Сокольническая линия, метро Румянцево',
+          'metro': {
+            'station_name': 'Румянцево',
+            'line_name': 'Сокольническая',
+            'station_id': '1.513',
+            'line_id': '1',
+            'lat': 55.633,
+            'lng': 37.4419
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Румянцево',
+              'line_name': 'Сокольническая',
+              'station_id': '1.513',
+              'line_id': '1',
+              'lat': 55.633,
+              'lng': 37.4419
+            }
+          ],
+          'id': '6445819'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-03T13:22:53+0300',
+        'created_at': '2024-07-03T13:22:53+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103216275',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103216275?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103216275',
+        'relations': [],
+        'employer': {
+          'id': '4219',
+          'name': 'Tele2',
+          'url': 'https://api.hh.ru/employers/4219',
+          'alternate_url': 'https://hh.ru/employer/4219',
+          'logo_urls': {
+            '90': 'https://img.hhcdn.ru/employer-logo/615008.jpeg',
+            '240': 'https://img.hhcdn.ru/employer-logo/615009.jpeg',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/231601.jpg'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=4219',
+          'accredited_it_employer': False,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее образование по профилю менеджмент, документооборот, юриспруденция, финансовый профиль. Знание принципов системы документооборота (ЭДА). Понимание процесса электронного документооборота. ',
+          'responsibility': 'Внесение договоров, дополнительных соглашений и ПБД в систему. Проверка корректности представленных документов на предмет соответствия условиям договора, корректности сумм своевременности...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '33',
+            'name': 'Делопроизводитель, архивариус'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      }
+    ],
+    'found': 158,
+    'pages': 16,
+    'page': 0,
+    'per_page': 10,
+    'clusters': None,
+    'arguments': None,
+    'fixes': None,
+    'suggests': None,
+    'alternate_url': 'https://hh.ru/search/vacancy?area=1&employer_id=4219&enable_snippets=true&items_on_page=10'
+  },
+  {
+    'items': [],
+    'found': 0,
+    'pages': 1,
+    'page': 0,
+    'per_page': 10,
+    'clusters': None,
+    'arguments': None,
+    'fixes': None,
+    'suggests': None,
+    'alternate_url': 'https://hh.ru/search/vacancy?area=1&employer_id=23040&enable_snippets=true&items_on_page=10'
+  },
+  {
+    'items': [
+      {
+        'id': '103493963',
+        'premium': False,
+        'name': 'Сборщик сайтов на конструкторе (Tilda)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 60000,
+          'to': None,
+          'currency': 'RUR',
+          'gross': True
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Профсоюзная улица',
+          'building': '76',
+          'lat': 55.66076,
+          'lng': 37.54356,
+          'description': None,
+          'raw': 'Москва, Профсоюзная улица, 76',
+          'metro': {
+            'station_name': 'Калужская',
+            'line_name': 'Калужско-Рижская',
+            'station_id': '6.41',
+            'line_id': '6',
+            'lat': 55.656682,
+            'lng': 37.540075
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Калужская',
+              'line_name': 'Калужско-Рижская',
+              'station_id': '6.41',
+              'line_id': '6',
+              'lat': 55.656682,
+              'lng': 37.540075
+            }
+          ],
+          'id': '654983'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-08T12:11:39+0300',
+        'created_at': '2024-07-08T12:11:39+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103493963',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103493963?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103493963',
+        'relations': [],
+        'employer': {
+          'id': '1579449',
+          'name': 'idaproject',
+          'url': 'https://api.hh.ru/employers/1579449',
+          'alternate_url': 'https://hh.ru/employer/1579449',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6616102.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6616101.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1248918.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1579449',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт создания сайтов на любом конструкторе (Tilda и др.). Чувство прекрасного :). Опыт работы с Adobe Photoshop, Figma. Начальные знания html...',
+          'responsibility': 'Создавать сайты на конструкторе idalite. Размещать контент, выравнивать шрифты, оптимизировать изображения. Работать с блоками, каталогами, шаблонами под стиль дизайна клиента. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '34',
+            'name': 'Дизайнер, художник'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103123845',
+        'premium': False,
+        'name': 'SMM-менеджер',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Профсоюзная улица',
+          'building': '76',
+          'lat': 55.66076,
+          'lng': 37.54356,
+          'description': None,
+          'raw': 'Москва, Профсоюзная улица, 76',
+          'metro': {
+            'station_name': 'Калужская',
+            'line_name': 'Калужско-Рижская',
+            'station_id': '6.41',
+            'line_id': '6',
+            'lat': 55.656682,
+            'lng': 37.540075
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Калужская',
+              'line_name': 'Калужско-Рижская',
+              'station_id': '6.41',
+              'line_id': '6',
+              'lat': 55.656682,
+              'lng': 37.540075
+            }
+          ],
+          'id': '654983'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-08T11:57:28+0300',
+        'created_at': '2024-07-08T11:57:28+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103123845',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103123845?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103123845',
+        'relations': [],
+        'employer': {
+          'id': '1579449',
+          'name': 'idaproject',
+          'url': 'https://api.hh.ru/employers/1579449',
+          'alternate_url': 'https://hh.ru/employer/1579449',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6616102.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6616101.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1248918.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1579449',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Умение создавать продающие тексты - базовое понимание копирайтинга. Навыки работы с редакторами изображений, графическими редакторами. Навык написания постов (как вариант, ведения...',
+          'responsibility': 'Генерация внутреннего контента - новости о жизни компании, какие изменения произошли. Публиковать посты совместно с СЕО и другими Лидами. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '3',
+            'name': 'SMM-менеджер, контент-менеджер'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '102064201',
+        'premium': False,
+        'name': 'UX/UI дизайнер',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Профсоюзная улица',
+          'building': '76',
+          'lat': 55.66076,
+          'lng': 37.54356,
+          'description': None,
+          'raw': 'Москва, Профсоюзная улица, 76',
+          'metro': {
+            'station_name': 'Калужская',
+            'line_name': 'Калужско-Рижская',
+            'station_id': '6.41',
+            'line_id': '6',
+            'lat': 55.656682,
+            'lng': 37.540075
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Калужская',
+              'line_name': 'Калужско-Рижская',
+              'station_id': '6.41',
+              'line_id': '6',
+              'lat': 55.656682,
+              'lng': 37.540075
+            }
+          ],
+          'id': '654983'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-08T09:22:22+0300',
+        'created_at': '2024-07-08T09:22:22+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102064201',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/102064201?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/102064201',
+        'relations': [],
+        'employer': {
+          'id': '1579449',
+          'name': 'idaproject',
+          'url': 'https://api.hh.ru/employers/1579449',
+          'alternate_url': 'https://hh.ru/employer/1579449',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6616102.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6616101.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1248918.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1579449',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Развивать навыки аргументированной презентации. Оценка навыков каждые 6 мес. — скиллсет, фидбек, персональный план развития, 1 ту 1 с лидом. ',
+          'responsibility': 'Создавать с нуля сервисы, промо-проекты и уникальные продукты — через прототипы, концепции, UI-Kit, hi-fi дизайн, тестирование. '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '34',
+            'name': 'Дизайнер, художник'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '102574421',
+        'premium': False,
+        'name': 'Project Manager (IT)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Профсоюзная улица',
+          'building': '76',
+          'lat': 55.66076,
+          'lng': 37.54356,
+          'description': None,
+          'raw': 'Москва, Профсоюзная улица, 76',
+          'metro': {
+            'station_name': 'Калужская',
+            'line_name': 'Калужско-Рижская',
+            'station_id': '6.41',
+            'line_id': '6',
+            'lat': 55.656682,
+            'lng': 37.540075
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Калужская',
+              'line_name': 'Калужско-Рижская',
+              'station_id': '6.41',
+              'line_id': '6',
+              'lat': 55.656682,
+              'lng': 37.540075
+            }
+          ],
+          'id': '654983'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-09T11:08:15+0300',
+        'created_at': '2024-07-09T11:08:15+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102574421',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/102574421?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/102574421',
+        'relations': [],
+        'employer': {
+          'id': '1579449',
+          'name': 'idaproject',
+          'url': 'https://api.hh.ru/employers/1579449',
+          'alternate_url': 'https://hh.ru/employer/1579449',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6616102.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6616101.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1248918.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1579449',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Коммерческий опыт управления проектами в сфере разработки ПО от 1.5 лет. Техническую погруженность - понимаешь, какую задачу нужно отдать фронту...',
+          'responsibility': 'Работать с проектами: составление плана работ, разработка ТЗ совместно с бизнес-аналитиками, планирование задач на команду, контроль качества исполнения, контроль...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '107',
+            'name': 'Руководитель проектов'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103244775',
+        'premium': False,
+        'name': 'Аккаунт-менеджер (IT)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Профсоюзная улица',
+          'building': '76',
+          'lat': 55.66076,
+          'lng': 37.54356,
+          'description': None,
+          'raw': 'Москва, Профсоюзная улица, 76',
+          'metro': {
+            'station_name': 'Калужская',
+            'line_name': 'Калужско-Рижская',
+            'station_id': '6.41',
+            'line_id': '6',
+            'lat': 55.656682,
+            'lng': 37.540075
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Калужская',
+              'line_name': 'Калужско-Рижская',
+              'station_id': '6.41',
+              'line_id': '6',
+              'lat': 55.656682,
+              'lng': 37.540075
+            }
+          ],
+          'id': '654983'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-09T20:43:14+0300',
+        'created_at': '2024-07-09T20:43:14+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103244775',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103244775?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103244775',
+        'relations': [],
+        'employer': {
+          'id': '1579449',
+          'name': 'idaproject',
+          'url': 'https://api.hh.ru/employers/1579449',
+          'alternate_url': 'https://hh.ru/employer/1579449',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6616102.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6616101.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1248918.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1579449',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Минимальный опыт работы в аккаунтинге/продажах IT-услуг. Умение общаться с людьми и вести переговоры. Грамотная устная и письменная речь. ',
+          'responsibility': 'Работать вместе с Руководителем, помогать в ведении заявок. Выстраивать позитивное и долгосрочное взаимодействие с клиентами. Участвовать в переговорах по проектам...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '70',
+            'name': 'Менеджер по продажам, менеджер по работе с клиентами'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103164157',
+        'premium': False,
+        'name': 'UX-редактор',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Профсоюзная улица',
+          'building': '76',
+          'lat': 55.66076,
+          'lng': 37.54356,
+          'description': None,
+          'raw': 'Москва, Профсоюзная улица, 76',
+          'metro': {
+            'station_name': 'Калужская',
+            'line_name': 'Калужско-Рижская',
+            'station_id': '6.41',
+            'line_id': '6',
+            'lat': 55.656682,
+            'lng': 37.540075
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Калужская',
+              'line_name': 'Калужско-Рижская',
+              'station_id': '6.41',
+              'line_id': '6',
+              'lat': 55.656682,
+              'lng': 37.540075
+            }
+          ],
+          'id': '654983'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-08T19:51:32+0300',
+        'created_at': '2024-07-08T19:51:32+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103164157',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103164157?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103164157',
+        'relations': [],
+        'employer': {
+          'id': '1579449',
+          'name': 'idaproject',
+          'url': 'https://api.hh.ru/employers/1579449',
+          'alternate_url': 'https://hh.ru/employer/1579449',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6616102.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6616101.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1248918.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1579449',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт работы на аналогичной должности от 1 года. Примеры крутых кейсов, когда изменения/корректировки текстов реально повлияли на конверсию. ',
+          'responsibility': 'Задавать направление для внутренних коммуникаций в продукте, обеспечивая понятность и эффективность обмена информацией. Составлять и поддерживать гайдлайны по интерфейсным текстам...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '55',
+            'name': 'Копирайтер, редактор, корректор'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '102445075',
+        'premium': False,
+        'name': 'Дизайнер коммуникаций',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Профсоюзная улица',
+          'building': '76',
+          'lat': 55.66076,
+          'lng': 37.54356,
+          'description': None,
+          'raw': 'Москва, Профсоюзная улица, 76',
+          'metro': {
+            'station_name': 'Калужская',
+            'line_name': 'Калужско-Рижская',
+            'station_id': '6.41',
+            'line_id': '6',
+            'lat': 55.656682,
+            'lng': 37.540075
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Калужская',
+              'line_name': 'Калужско-Рижская',
+              'station_id': '6.41',
+              'line_id': '6',
+              'lat': 55.656682,
+              'lng': 37.540075
+            }
+          ],
+          'id': '654983'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-09T15:53:49+0300',
+        'created_at': '2024-07-09T15:53:49+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102445075',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/102445075?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/102445075',
+        'relations': [],
+        'employer': {
+          'id': '1579449',
+          'name': 'idaproject',
+          'url': 'https://api.hh.ru/employers/1579449',
+          'alternate_url': 'https://hh.ru/employer/1579449',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6616102.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6616101.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1248918.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1579449',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Обучим и предоставим доступ к огромной базе знаний по PropTech. Можешь влиять на процессы и бренд, продвигаем фичи даже от...',
+          'responsibility': 'Создавать презентации для внутренних и внешних коммуникаций — на основе брендбука компании, включая готовые шаблоны. Развивать библиотеку шаблонов для себя и...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '34',
+            'name': 'Дизайнер, художник'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '101883621',
+        'premium': False,
+        'name': 'Frontend разработчик (Vue/Nuxt)',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Профсоюзная улица',
+          'building': '76',
+          'lat': 55.66076,
+          'lng': 37.54356,
+          'description': None,
+          'raw': 'Москва, Профсоюзная улица, 76',
+          'metro': {
+            'station_name': 'Калужская',
+            'line_name': 'Калужско-Рижская',
+            'station_id': '6.41',
+            'line_id': '6',
+            'lat': 55.656682,
+            'lng': 37.540075
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Калужская',
+              'line_name': 'Калужско-Рижская',
+              'station_id': '6.41',
+              'line_id': '6',
+              'lat': 55.656682,
+              'lng': 37.540075
+            }
+          ],
+          'id': '654983'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-10T19:15:39+0300',
+        'created_at': '2024-07-10T19:15:39+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=101883621',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/101883621?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/101883621',
+        'relations': [],
+        'employer': {
+          'id': '1579449',
+          'name': 'idaproject',
+          'url': 'https://api.hh.ru/employers/1579449',
+          'alternate_url': 'https://hh.ru/employer/1579449',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6616102.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6616101.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1248918.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1579449',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Быть хорошим командным игроком в рамках своей проектной группы (численностью 6-10 человек). Опыт коммерческой разработки от 1.5 лет. ',
+          'responsibility': 'Разрабатывать новый функционал и различные уникальные приложения для проектов в сфере недвижимости. Плотно взаимодействовать с Backend, Design, QA командами, чтобы...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '96',
+            'name': 'Программист, разработчик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '102624817',
+        'premium': False,
+        'name': 'Офис-менеджер',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Профсоюзная улица',
+          'building': '76',
+          'lat': 55.66076,
+          'lng': 37.54356,
+          'description': None,
+          'raw': 'Москва, Профсоюзная улица, 76',
+          'metro': {
+            'station_name': 'Калужская',
+            'line_name': 'Калужско-Рижская',
+            'station_id': '6.41',
+            'line_id': '6',
+            'lat': 55.656682,
+            'lng': 37.540075
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Калужская',
+              'line_name': 'Калужско-Рижская',
+              'station_id': '6.41',
+              'line_id': '6',
+              'lat': 55.656682,
+              'lng': 37.540075
+            }
+          ],
+          'id': '654983'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-09T20:04:56+0300',
+        'created_at': '2024-07-09T20:04:56+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=102624817',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/102624817?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/102624817',
+        'relations': [],
+        'employer': {
+          'id': '1579449',
+          'name': 'idaproject',
+          'url': 'https://api.hh.ru/employers/1579449',
+          'alternate_url': 'https://hh.ru/employer/1579449',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6616102.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6616101.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1248918.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1579449',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Дисциплинированность. Дружелюбность и желание помогать людям. Умение творчески подходить к решению задач и создавать event даже из маленьких событий для...',
+          'responsibility': 'Встречать гостей и курьеров. Обеспечивать два офиса всем необходимым: от канцелярии до фруктов. Собирать потребности по технике для сотрудников, заниматься...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '88',
+            'name': 'Офис-менеджер'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103078260',
+        'premium': False,
+        'name': 'Специалист по документообороту',
+        'department': None,
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': None,
+          'to': 80000,
+          'currency': 'RUR',
+          'gross': True
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Профсоюзная улица',
+          'building': '76',
+          'lat': 55.66076,
+          'lng': 37.54356,
+          'description': None,
+          'raw': 'Москва, Профсоюзная улица, 76',
+          'metro': {
+            'station_name': 'Калужская',
+            'line_name': 'Калужско-Рижская',
+            'station_id': '6.41',
+            'line_id': '6',
+            'lat': 55.656682,
+            'lng': 37.540075
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Калужская',
+              'line_name': 'Калужско-Рижская',
+              'station_id': '6.41',
+              'line_id': '6',
+              'lat': 55.656682,
+              'lng': 37.540075
+            }
+          ],
+          'id': '654983'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-10T19:10:38+0300',
+        'created_at': '2024-07-10T19:10:38+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103078260',
+        'show_logo_in_search': None,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103078260?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103078260',
+        'relations': [],
+        'employer': {
+          'id': '1579449',
+          'name': 'idaproject',
+          'url': 'https://api.hh.ru/employers/1579449',
+          'alternate_url': 'https://hh.ru/employer/1579449',
+          'logo_urls': {
+            '240': 'https://img.hhcdn.ru/employer-logo/6616102.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/6616101.png',
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1248918.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=1579449',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Уверенный пользователь ПК, Microsoft Office, CRM, 1C, ЭЦП. Умение грамотно, структурировано и доступно излагать информацию (в том числе, правового...',
+          'responsibility': 'Подготовка первичной документации по реализации (акты, счета). Контроль исполнения сроков оплаты по выставленным счетам (звонки/письма клиентам). Подготовка договоров (спецификаций...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '33',
+            'name': 'Делопроизводитель, архивариус'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      }
+    ],
+    'found': 12,
+    'pages': 2,
+    'page': 0,
+    'per_page': 10,
+    'clusters': None,
+    'arguments': None,
+    'fixes': None,
+    'suggests': None,
+    'alternate_url': 'https://hh.ru/search/vacancy?area=1&employer_id=1579449&enable_snippets=true&items_on_page=10'
+  },
+  {
+    'items': [
+      {
+        'id': '103670614',
+        'premium': False,
+        'name': 'Стажер аналитик данных',
+        'department': {
+          'id': 'ozonru-2180-commerce',
+          'name': 'Ozon Офис и Коммерция'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Пресненская набережная',
+          'building': '10',
+          'lat': 55.74723295660558,
+          'lng': 37.536558290665916,
+          'description': None,
+          'raw': 'Москва, Пресненская набережная, 10',
+          'metro': {
+            'station_name': 'Деловой центр',
+            'line_name': 'Большая кольцевая линия',
+            'station_id': '97.603',
+            'line_id': '97',
+            'lat': 55.7491,
+            'lng': 37.5395
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.603',
+              'line_id': '97',
+              'lat': 55.7491,
+              'lng': 37.5395
+            },
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Солнцевская',
+              'station_id': '133.468',
+              'line_id': '133',
+              'lat': 55.7491,
+              'lng': 37.5395
+            },
+            {
+              'station_name': 'Москва-Сити',
+              'line_name': 'Филевская',
+              'station_id': '4.179',
+              'line_id': '4',
+              'lat': 55.748056,
+              'lng': 37.532778
+            }
+          ],
+          'id': '1522426'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-10T17:13:37+0300',
+        'created_at': '2024-07-10T17:13:37+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103670614',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103670614?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103670614',
+        'relations': [],
+        'employer': {
+          'id': '2180',
+          'name': 'Ozon',
+          'url': 'https://api.hh.ru/employers/2180',
+          'alternate_url': 'https://hh.ru/employer/2180',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Базовые знания SQL. Базовые знания Python. Готовность работать 40 часов в неделю.',
+          'responsibility': 'Поддерживать и разрабатывать BI и финансовую отчетности. Поддерживать аналитические хранилища данных. Проводить сбор и интеграцию данных из различных источников.'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '10',
+            'name': 'Аналитик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'probation',
+          'name': 'Стажировка'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103643490',
+        'premium': False,
+        'name': 'Менеджер по маркетинговым коммуникациям',
+        'department': {
+          'id': 'ozonru-2180-commerce',
+          'name': 'Ozon Офис и Коммерция'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-10T12:07:17+0300',
+        'created_at': '2024-07-10T12:07:17+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103643490',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103643490?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103643490',
+        'relations': [],
+        'employer': {
+          'id': '2180',
+          'name': 'Ozon',
+          'url': 'https://api.hh.ru/employers/2180',
+          'alternate_url': 'https://hh.ru/employer/2180',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Знание этапов и деталей разработки и производства рекламных материалов. Знание рынка подрядчиков по разработке рекламных материалов. Понимание работы медийных каналов...',
+          'responsibility': 'Проведение исследований аудитории с точки зрения восприятия и опыта промо и акций (покупательское поведение, сезоны, U&A и т.п...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '68',
+            'name': 'Менеджер по маркетингу, интернет-маркетолог'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103644324',
+        'premium': False,
+        'name': 'Менеджер по закупкам',
+        'department': {
+          'id': 'ozonru-2180-express',
+          'name': 'Ozon fresh'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Пресненская набережная',
+          'building': '10',
+          'lat': 55.74723295660558,
+          'lng': 37.536558290665916,
+          'description': None,
+          'raw': 'Москва, Пресненская набережная, 10',
+          'metro': {
+            'station_name': 'Деловой центр',
+            'line_name': 'Большая кольцевая линия',
+            'station_id': '97.603',
+            'line_id': '97',
+            'lat': 55.7491,
+            'lng': 37.5395
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.603',
+              'line_id': '97',
+              'lat': 55.7491,
+              'lng': 37.5395
+            },
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Солнцевская',
+              'station_id': '133.468',
+              'line_id': '133',
+              'lat': 55.7491,
+              'lng': 37.5395
+            },
+            {
+              'station_name': 'Москва-Сити',
+              'line_name': 'Филевская',
+              'station_id': '4.179',
+              'line_id': '4',
+              'lat': 55.748056,
+              'lng': 37.532778
+            }
+          ],
+          'id': '1522426'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-10T12:17:47+0300',
+        'created_at': '2024-07-10T12:17:47+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103644324',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103644324?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103644324',
+        'relations': [],
+        'employer': {
+          'id': '2180',
+          'name': 'Ozon',
+          'url': 'https://api.hh.ru/employers/2180',
+          'alternate_url': 'https://hh.ru/employer/2180',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее экономическое образование. Опыт работы в коммерческих закупках от 3-х лет. Опыт проведения тендеров (написание ТЗ, организация и проведение...',
+          'responsibility': 'Вести активную поддержку бизнеса по направлениям: СМР, СКС, пожарная безопасность, поставка/аренда техники, стеллажное и холодильное оборудование, услуги, клининг, флит...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '66',
+            'name': 'Менеджер по закупкам'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103575230',
+        'premium': False,
+        'name': 'Специалист по логистике',
+        'department': {
+          'id': 'ozonru-2180-boro',
+          'name': 'Ozon Производство'
+        },
+        'has_test': True,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Пресненская набережная',
+          'building': '10',
+          'lat': 55.74723295660558,
+          'lng': 37.536558290665916,
+          'description': None,
+          'raw': 'Москва, Пресненская набережная, 10',
+          'metro': {
+            'station_name': 'Деловой центр',
+            'line_name': 'Большая кольцевая линия',
+            'station_id': '97.603',
+            'line_id': '97',
+            'lat': 55.7491,
+            'lng': 37.5395
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.603',
+              'line_id': '97',
+              'lat': 55.7491,
+              'lng': 37.5395
+            },
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Солнцевская',
+              'station_id': '133.468',
+              'line_id': '133',
+              'lat': 55.7491,
+              'lng': 37.5395
+            },
+            {
+              'station_name': 'Москва-Сити',
+              'line_name': 'Филевская',
+              'station_id': '4.179',
+              'line_id': '4',
+              'lat': 55.748056,
+              'lng': 37.532778
+            }
+          ],
+          'id': '1522426'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-09T11:23:06+0300',
+        'created_at': '2024-07-09T11:23:06+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103575230',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103575230?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103575230',
+        'relations': [],
+        'employer': {
+          'id': '2180',
+          'name': 'Ozon',
+          'url': 'https://api.hh.ru/employers/2180',
+          'alternate_url': 'https://hh.ru/employer/2180',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее образование. Опыт работы в транспортной компании желателен. Внимательность, активность, обучаемость.',
+          'responsibility': 'Контроль постановки транспорта по регулярным и дополнительным маршрутам своего участка. Оценка текущих объемов по направлениям и решение о необходимости постановки...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'remote',
+          'name': 'Удаленная работа'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '67',
+            'name': 'Менеджер по логистике, менеджер по ВЭД'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103608573',
+        'premium': False,
+        'name': 'Менеджер проекта, Маркетплейс, Travel',
+        'department': {
+          'id': 'ozonru-2180-dev',
+          'name': 'Ozon Информационные технологии'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-09T17:01:38+0300',
+        'created_at': '2024-07-09T17:01:38+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103608573',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103608573?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103608573',
+        'relations': [],
+        'employer': {
+          'id': '2180',
+          'name': 'Ozon',
+          'url': 'https://api.hh.ru/employers/2180',
+          'alternate_url': 'https://hh.ru/employer/2180',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Практический опыт реализации проектов по разработке ПО. Хорошее понимание цикла разработки ПО. Опыт работы в технологической компании над продуктом - крупным...',
+          'responsibility': 'Управлять проектами по разработке нового функционала портала Ozon Travel с целью его реализации в срок и с должным уровнем качества...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'remote',
+          'name': 'Удаленная работа'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '107',
+            'name': 'Руководитель проектов'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between3And6',
+          'name': 'От 3 до 6 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '103623233',
+        'premium': False,
+        'name': 'Специалист по работе с партнерами',
+        'department': {
+          'id': 'ozonru-2180-boro',
+          'name': 'Ozon Производство'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': None,
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-10T08:05:54+0300',
+        'created_at': '2024-07-10T08:05:54+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=103623233',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/103623233?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/103623233',
+        'relations': [],
+        'employer': {
+          'id': '2180',
+          'name': 'Ozon',
+          'url': 'https://api.hh.ru/employers/2180',
+          'alternate_url': 'https://hh.ru/employer/2180',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Знание ПК на уровне продвинутого пользователя (MS Outlook, Excel, Word). Владение EXСEL на продвинутом уровне, формирование сводных таблиц, ВПР, аналитические...',
+          'responsibility': 'Своевременное проведение сверок: Графика фактических работ и WMS + СКУД, Графика фактических работ с заявкой на выход, графика фактических работ...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'remote',
+          'name': 'Удаленная работа'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '71',
+            'name': 'Менеджер по работе с партнерами'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '89399113',
+        'premium': False,
+        'name': 'Сотрудник склада Ozon Community',
+        'department': {
+          'id': 'ozonru-2180-boro',
+          'name': 'Ozon Производство'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': {
+          'from': 150000,
+          'to': None,
+          'currency': 'RUR',
+          'gross': True
+        },
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': None,
+          'building': None,
+          'lat': 55.859034,
+          'lng': 36.805046,
+          'description': None,
+          'raw': 'Москва',
+          'metro': None,
+          'metro_stations': [],
+          'id': '12491694'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-02T12:26:30+0300',
+        'created_at': '2024-07-02T12:26:30+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=89399113',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/89399113?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/89399113',
+        'relations': [],
+        'employer': {
+          'id': '2180',
+          'name': 'Ozon',
+          'url': 'https://api.hh.ru/employers/2180',
+          'alternate_url': 'https://hh.ru/employer/2180',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Рассматриваем кандидатов без опыта! Приветствуется аналогичный опыт работы на складах компаний:Яндекс.Маркет, Озон, Ламода, Вайлдберриз, СДЭК, ПЭК, Деловые Линии, ДПД...',
+          'responsibility': 'Заключение договора ГПХ напрямую с ОЗОН Комьюнити (ПАРТНЕР ОЗОН). Вам предстоит: Осуществлять приемку и упаковку товара при помощи персонального компьютера...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'flyInFlyOut',
+          'name': 'Вахтовый метод'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '31',
+            'name': 'Грузчик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '100088706',
+        'premium': False,
+        'name': 'Менеджер по вознаграждениям',
+        'department': {
+          'id': 'ozonru-2180-commerce',
+          'name': 'Ozon Офис и Коммерция'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Пресненская набережная',
+          'building': '10',
+          'lat': 55.74723295660558,
+          'lng': 37.536558290665916,
+          'description': None,
+          'raw': 'Москва, Пресненская набережная, 10',
+          'metro': {
+            'station_name': 'Деловой центр',
+            'line_name': 'Большая кольцевая линия',
+            'station_id': '97.603',
+            'line_id': '97',
+            'lat': 55.7491,
+            'lng': 37.5395
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.603',
+              'line_id': '97',
+              'lat': 55.7491,
+              'lng': 37.5395
+            },
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Солнцевская',
+              'station_id': '133.468',
+              'line_id': '133',
+              'lat': 55.7491,
+              'lng': 37.5395
+            },
+            {
+              'station_name': 'Москва-Сити',
+              'line_name': 'Филевская',
+              'station_id': '4.179',
+              'line_id': '4',
+              'lat': 55.748056,
+              'lng': 37.532778
+            }
+          ],
+          'id': '1522426'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-10T16:52:31+0300',
+        'created_at': '2024-07-10T16:52:31+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=100088706',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/100088706?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/100088706',
+        'relations': [],
+        'employer': {
+          'id': '2180',
+          'name': 'Ozon',
+          'url': 'https://api.hh.ru/employers/2180',
+          'alternate_url': 'https://hh.ru/employer/2180',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Высшее образование (экономика/математика). Опыт работы на аналогичной должности от 1-года. Опыт и знания в направлении оплаты труда, бюджетирования...',
+          'responsibility': 'Администрирование процесса пересмотра заработных плат: подготовка обзоров заработных плат и индексация. Согласование заявок на кадровые изменения (прием/перевод). '
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '153',
+            'name': 'Менеджер по компенсациям и льготам'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '101931193',
+        'premium': False,
+        'name': 'Менеджер по проектам',
+        'department': {
+          'id': 'ozonru-2180-commerce',
+          'name': 'Ozon Офис и Коммерция'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': 'Москва',
+          'street': 'Пресненская набережная',
+          'building': '10',
+          'lat': 55.74723295660558,
+          'lng': 37.536558290665916,
+          'description': None,
+          'raw': 'Москва, Пресненская набережная, 10',
+          'metro': {
+            'station_name': 'Деловой центр',
+            'line_name': 'Большая кольцевая линия',
+            'station_id': '97.603',
+            'line_id': '97',
+            'lat': 55.7491,
+            'lng': 37.5395
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.603',
+              'line_id': '97',
+              'lat': 55.7491,
+              'lng': 37.5395
+            },
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Солнцевская',
+              'station_id': '133.468',
+              'line_id': '133',
+              'lat': 55.7491,
+              'lng': 37.5395
+            },
+            {
+              'station_name': 'Москва-Сити',
+              'line_name': 'Филевская',
+              'station_id': '4.179',
+              'line_id': '4',
+              'lat': 55.748056,
+              'lng': 37.532778
+            }
+          ],
+          'id': '1522426'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-10T16:01:18+0300',
+        'created_at': '2024-07-10T16:01:18+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=101931193',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/101931193?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/101931193',
+        'relations': [],
+        'employer': {
+          'id': '2180',
+          'name': 'Ozon',
+          'url': 'https://api.hh.ru/employers/2180',
+          'alternate_url': 'https://hh.ru/employer/2180',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Опыт применения проектных фреймворков и методологий. Отличные навыки коммуникации. Системный подход, навыки структурирования информации и подготовки презентаций. Будет отдельным плюсом...',
+          'responsibility': 'Запуск новых или изменение действующих бизнес-процессов. Ведение проектов: подготовка бизнес-требований, оценка эффективности, план проекта, распределение задач, контроль выполнения...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '40',
+            'name': 'Другое'
+          }
+        ],
+        'accept_incomplete_resumes': True,
+        'experience': {
+          'id': 'between1And3',
+          'name': 'От 1 года до 3 лет'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      },
+      {
+        'id': '94821592',
+        'premium': False,
+        'name': 'Стажёр Frontend разработчик (направление разработки интерфейсов финансовых сервисов)',
+        'department': {
+          'id': 'ozonru-2180-fintech',
+          'name': 'Ozon Fintech'
+        },
+        'has_test': False,
+        'response_letter_required': False,
+        'area': {
+          'id': '1',
+          'name': 'Москва',
+          'url': 'https://api.hh.ru/areas/1'
+        },
+        'salary': None,
+        'type': {
+          'id': 'open',
+          'name': 'Открытая'
+        },
+        'address': {
+          'city': None,
+          'street': None,
+          'building': None,
+          'lat': None,
+          'lng': None,
+          'description': None,
+          'raw': None,
+          'metro': {
+            'station_name': 'Деловой центр',
+            'line_name': 'Большая кольцевая линия',
+            'station_id': '97.603',
+            'line_id': '97',
+            'lat': 55.7491,
+            'lng': 37.5395
+          },
+          'metro_stations': [
+            {
+              'station_name': 'Деловой центр',
+              'line_name': 'Большая кольцевая линия',
+              'station_id': '97.603',
+              'line_id': '97',
+              'lat': 55.7491,
+              'lng': 37.5395
+            }
+          ],
+          'id': '11807838'
+        },
+        'response_url': None,
+        'sort_point_distance': None,
+        'published_at': '2024-07-02T15:53:55+0300',
+        'created_at': '2024-07-02T15:53:55+0300',
+        'archived': False,
+        'apply_alternate_url': 'https://hh.ru/applicant/vacancy_response?vacancyId=94821592',
+        'branding': {
+          'type': 'MAKEUP',
+          'tariff': None
+        },
+        'show_logo_in_search': True,
+        'insider_interview': None,
+        'url': 'https://api.hh.ru/vacancies/94821592?host=hh.ru',
+        'alternate_url': 'https://hh.ru/vacancy/94821592',
+        'relations': [],
+        'employer': {
+          'id': '2180',
+          'name': 'Ozon',
+          'url': 'https://api.hh.ru/employers/2180',
+          'alternate_url': 'https://hh.ru/employer/2180',
+          'logo_urls': {
+            'original': 'https://img.hhcdn.ru/employer-logo-original/1069622.png',
+            '240': 'https://img.hhcdn.ru/employer-logo/5899118.png',
+            '90': 'https://img.hhcdn.ru/employer-logo/5899117.png'
+          },
+          'vacancies_url': 'https://api.hh.ru/vacancies?employer_id=2180',
+          'accredited_it_employer': True,
+          'trusted': True
+        },
+        'snippet': {
+          'requirement': 'Базовый опыт Frontend-разработки. В случае своих pet проектов необходимы ссылки на github. Готовность работать 40 часов в неделю.',
+          'responsibility': 'Знакомство и написание тестов e2e, unit и b2b. Разработка интерфейсов на Vue.JS/Vuex/Nuxt.JS/Svelte/SvelteKit...'
+        },
+        'contacts': None,
+        'schedule': {
+          'id': 'fullDay',
+          'name': 'Полный день'
+        },
+        'working_days': [],
+        'working_time_intervals': [],
+        'working_time_modes': [],
+        'accept_temporary': False,
+        'professional_roles': [
+          {
+            'id': '96',
+            'name': 'Программист, разработчик'
+          }
+        ],
+        'accept_incomplete_resumes': False,
+        'experience': {
+          'id': 'noExperience',
+          'name': 'Нет опыта'
+        },
+        'employment': {
+          'id': 'full',
+          'name': 'Полная занятость'
+        },
+        'adv_response_url': None,
+        'is_adv_vacancy': False,
+        'adv_context': None
+      }
+    ],
+    'found': 2266,
+    'pages': 200,
+    'page': 0,
+    'per_page': 10,
+    'clusters': None,
+    'arguments': None,
+    'fixes': None,
+    'suggests': None,
+    'alternate_url': 'https://hh.ru/search/vacancy?area=1&employer_id=2180&enable_snippets=true&items_on_page=10'
+  }
+]
