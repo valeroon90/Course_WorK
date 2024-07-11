@@ -20,7 +20,7 @@ def get_hh_ru_data(company_ids: List[str]) -> List[Dict[str, Any]]:
     params = {
         'area': 1,
         'page': 0,
-        'per_page': 10
+        'per_page': 40
     }
     data = []
     vacancies = []
@@ -148,47 +148,32 @@ def save_data_to_database(data: list[dict[str, Any]], database_name: str, params
                     emp['description'])
                 )
 
-            employer_id = cur.fetchone()[0]
+                employer_id = cur.fetchone()[0]
 
-            vacancies_data = text['vacancies']
+                vacancies_data = text['vacancies']
             #print(vacancies_data)
-            for vacancy in vacancies_data:
-                items = vacancy['items']
+                for vacancy in vacancies_data:
+                    items = vacancy['items']
                 #print(items)
-                for item in items:
-                    if item['salary'] is None:
-                        cur.execute(
-                            """
-                            INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
-                            VALUES (%s, %s, %s, %s)
-                            """,
-                            (employer_id, item['name'], 0,
-                            item['alternate_url'])
-                        )
-                    else:
-                        cur.execute(
-                            """
-                            INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
-                            VALUES (%s, %s, %s, %s)
-                            """,
-                            (employer_id, item['name'], item['salary']['from'],
-                            item['alternate_url'])
-                        )
+                    for item in items:
+                        if item['salary'] is None:
+                            cur.execute(
+                                """
+                                INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
+                                VALUES (%s, %s, %s, %s)
+                                """,
+                                (employer_id, item['name'], 0,
+                                item['alternate_url'])
+                            )
+                        else:
+                            cur.execute(
+                                """
+                                INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
+                                VALUES (%s, %s, %s, %s)
+                                """,
+                                (employer_id, item['name'], item['salary']['from'],
+                                item['alternate_url'])
+                            )
 
     conn.commit()
     conn.close()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
