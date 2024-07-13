@@ -1,0 +1,52 @@
+[
+  {
+    'employer_id': 4307,
+    'company_name': 'Московская Биржа',
+    'open_vacancies': 180
+  },
+  {
+    'employer_id': 4787018,
+    'company_name': 'Caltat',
+    'open_vacancies': 28
+  },
+  {
+    'employer_id': 4219,
+    'company_name': 'Tele2',
+    'open_vacancies': 529
+  },
+  {
+    'employer_id': 23040,
+    'company_name': 'Банк Открытие',
+    'open_vacancies': 85
+  },
+  {
+    'employer_id': 1579449,
+    'company_name': 'idaproject',
+    'open_vacancies': 13
+  },
+  {
+    'employer_id': 2180,
+    'company_name': 'Ozon',
+    'open_vacancies': 11457
+  },
+  {
+    'employer_id': 1057,
+    'company_name': 'Лаборатория Касперского',
+    'open_vacancies': 157
+  },
+  {
+    'employer_id': 1180,
+    'company_name': 'Bayer',
+    'open_vacancies': 112
+  },
+  {
+    'employer_id': 208707,
+    'company_name': 'ВсеИнструменты.ру',
+    'open_vacancies': 980
+  },
+  {
+    'employer_id': 205,
+    'company_name': 'Марс',
+    'open_vacancies': 192
+  }
+]

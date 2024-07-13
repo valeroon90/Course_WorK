@@ -17,23 +17,19 @@ def get_hh_ru_data(company_ids: List[str]) -> List[Dict[str, Any]]:
         Возвращает:
         Список из словарей, (employers и vacancies) где каждый словарь содержит информацию о работодателе и список вакансий.
         """
-    params = {
-        'area': 1,
-        'page': 0,
-        'per_page': 40
-    }
+
     data = []
     vacancies = []
     employers = []
     for employer_id in company_ids:
         url_emp = f"https://api.hh.ru/employers/{employer_id}"
-        employer_info = requests.get(url_emp, params=params).json()
+        employer_info = requests.get(url_emp,).json()
         employers.append(employer_info)
 
 
         url_vac = f"https://api.hh.ru/vacancies?employer_id={employer_id}"
-        vacancies_info = requests.get(url_vac, params=params).json()
-        vacancies.append(vacancies_info)
+        vacancies_info = requests.get(url_vac).json()
+        vacancies.extend(vacancies_info['items'])
     data.append({
         'employers': employers,
         'vacancies': vacancies
@@ -145,35 +141,32 @@ def save_data_to_database(data: list[dict[str, Any]], database_name: str, params
                     RETURNING employer_id
                     """,
                     (emp['name'], emp['open_vacancies'], emp['alternate_url'],
-                    emp['description'])
+                     emp['description'])
                 )
 
                 employer_id = cur.fetchone()[0]
-
+                print(employer_id)
                 vacancies_data = text['vacancies']
-            #print(vacancies_data)
+                #print(vacancies_data)
                 for vacancy in vacancies_data:
-                    items = vacancy['items']
-                #print(items)
-                    for item in items:
-                        if item['salary'] is None:
-                            cur.execute(
-                                """
-                                INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
-                                VALUES (%s, %s, %s, %s)
+                    if vacancy['salary'] is None:
+                        cur.execute(
+                            """
+                            INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
+                            VALUES (%s, %s, %s, %s)
                                 """,
-                                (employer_id, item['name'], 0,
-                                item['alternate_url'])
-                            )
-                        else:
-                            cur.execute(
-                                """
-                                INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
-                                VALUES (%s, %s, %s, %s)
-                                """,
-                                (employer_id, item['name'], item['salary']['from'],
-                                item['alternate_url'])
-                            )
+                            (employer_id, vacancy['name'], 0,
+                             vacancy['alternate_url'])
+                        )
+                    else:
+                        cur.execute(
+                            """
+                            INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
+                            VALUES (%s, %s, %s, %s)
+                            """,
+                            (employer_id, vacancy['name'], vacancy['salary']['from'],
+                             vacancy['alternate_url'])
+                        )
 
     conn.commit()
     conn.close()
