@@ -145,7 +145,7 @@ def save_data_to_database(data: list[dict[str, Any]], database_name: str, params
                 )
 
                 employer_id = cur.fetchone()[0]
-                print(employer_id)
+                #print(employer_id)
                 vacancies_data = text['vacancies']
                 #print(vacancies_data)
                 for vacancy in vacancies_data:
@@ -154,7 +154,7 @@ def save_data_to_database(data: list[dict[str, Any]], database_name: str, params
                             """
                             INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
                             VALUES (%s, %s, %s, %s)
-                                """,
+                            """,
                             (employer_id, vacancy['name'], 0,
                              vacancy['alternate_url'])
                         )
