@@ -103,7 +103,7 @@ def create_database(database_name: str, params: dict) -> None:
     with conn.cursor() as cur:
         cur.execute("""
             CREATE TABLE employers (
-                employer_id SERIAL PRIMARY KEY,
+                employer_id int,
                 company_name VARCHAR(300) NOT NULL,
                 open_vacancies INTEGER,
                 employer_url TEXT,
@@ -113,8 +113,8 @@ def create_database(database_name: str, params: dict) -> None:
     with conn.cursor() as cur:
         cur.execute("""
             CREATE TABLE vacancies (
-                vacancy_id SERIAL PRIMARY KEY,
-                employer_id INT REFERENCES employers(employer_id),
+                vacancy_id int,
+                employer_id INT ,
                 vacancy_name VARCHAR(300) NOT NULL,
                 salary_from INTEGER,
                 vacancy_url TEXT)
@@ -136,15 +136,14 @@ def save_data_to_database(data: list[dict[str, Any]], database_name: str, params
             for emp in employer_data:
                 cur.execute(
                     """
-                    INSERT INTO employers (company_name, open_vacancies, employer_url, description)
-                    VALUES (%s, %s, %s, %s)
-                    RETURNING employer_id
+                    INSERT INTO employers (employer_id, company_name, open_vacancies, employer_url, description)
+                    VALUES (%s, %s, %s, %s, %s)
                     """,
-                    (emp['name'], emp['open_vacancies'], emp['alternate_url'],
+                    (emp['id'], emp['name'], emp['open_vacancies'], emp['alternate_url'],
                      emp['description'])
                 )
 
-                employer_id = cur.fetchone()[0]
+                #employer_id = cur.fetchone()[0]
                 #print(employer_id)
                 vacancies_data = text['vacancies']
                 #print(vacancies_data)
@@ -152,19 +151,19 @@ def save_data_to_database(data: list[dict[str, Any]], database_name: str, params
                     if vacancy['salary'] is None:
                         cur.execute(
                             """
-                            INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
-                            VALUES (%s, %s, %s, %s)
+                            INSERT INTO vacancies (vacancy_id, employer_id, vacancy_name, salary_from, vacancy_url)
+                            VALUES (%s, %s, %s, %s, %s)
                             """,
-                            (employer_id, vacancy['name'], 0,
+                            (vacancy['id'], vacancy['employer']['id'], vacancy['name'], 0,
                              vacancy['alternate_url'])
                         )
                     else:
                         cur.execute(
                             """
-                            INSERT INTO vacancies (employer_id, vacancy_name, salary_from, vacancy_url)
-                            VALUES (%s, %s, %s, %s)
+                            INSERT INTO vacancies (vacancy_id, employer_id, vacancy_name, salary_from, vacancy_url)
+                            VALUES (%s, %s, %s, %s, %s)
                             """,
-                            (employer_id, vacancy['name'], vacancy['salary']['from'],
+                            (vacancy['id'], vacancy['employer']['id'], vacancy['name'], vacancy['salary']['from'],
                              vacancy['alternate_url'])
                         )
 
