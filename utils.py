@@ -17,7 +17,11 @@ def get_hh_ru_data(company_ids: List[str]) -> List[Dict[str, Any]]:
         Возвращает:
         Список из словарей, (employers и vacancies) где каждый словарь содержит информацию о работодателе и список вакансий.
         """
-
+    params = {
+        'area': 1,
+        'page': 0,
+        'per_page': 100
+    }
     data = []
     vacancies = []
     employers = []
@@ -28,7 +32,7 @@ def get_hh_ru_data(company_ids: List[str]) -> List[Dict[str, Any]]:
 
 
         url_vac = f"https://api.hh.ru/vacancies?employer_id={employer_id}"
-        vacancies_info = requests.get(url_vac).json()
+        vacancies_info = requests.get(url_vac, params=params).json()
         vacancies.extend(vacancies_info['items'])
     data.append({
         'employers': employers,
@@ -124,7 +128,7 @@ def create_database(database_name: str, params: dict) -> None:
     conn.close()
 
 
-def save_data_to_database(data: list[dict[str, Any]], database_name: str, params: dict) -> None:
+def save_data_to_database_emp(data: list[dict[str, Any]], database_name: str, params: dict) -> None:
     """Сохранение данных о компаниях и их вакансиях """
 
     conn = psycopg2.connect(dbname=database_name, **params)
@@ -143,29 +147,38 @@ def save_data_to_database(data: list[dict[str, Any]], database_name: str, params
                      emp['description'])
                 )
 
-                #employer_id = cur.fetchone()[0]
-                #print(employer_id)
-                vacancies_data = text['vacancies']
-                #print(vacancies_data)
-                for vacancy in vacancies_data:
-                    if vacancy['salary'] is None:
-                        cur.execute(
-                            """
-                            INSERT INTO vacancies (vacancy_id, employer_id, vacancy_name, salary_from, vacancy_url)
-                            VALUES (%s, %s, %s, %s, %s)
-                            """,
-                            (vacancy['id'], vacancy['employer']['id'], vacancy['name'], 0,
-                             vacancy['alternate_url'])
-                        )
-                    else:
-                        cur.execute(
-                            """
-                            INSERT INTO vacancies (vacancy_id, employer_id, vacancy_name, salary_from, vacancy_url)
-                            VALUES (%s, %s, %s, %s, %s)
-                            """,
-                            (vacancy['id'], vacancy['employer']['id'], vacancy['name'], vacancy['salary']['from'],
-                             vacancy['alternate_url'])
-                        )
+    conn.commit()
+    conn.close()
+
+
+def save_data_to_database_vac(data: list[dict[str, Any]], database_name: str, params: dict) -> None:
+    """Сохранение данных о компаниях и их вакансиях """
+
+    conn = psycopg2.connect(dbname=database_name, **params)
+
+    with conn.cursor() as cur:
+        for text in data:
+            vacancies_data = text['vacancies']
+            # print(vacancies_data)
+            for vacancy in vacancies_data:
+                if vacancy['salary'] is None:
+                    cur.execute(
+                        """
+                        INSERT INTO vacancies (vacancy_id, employer_id, vacancy_name, salary_from, vacancy_url)
+                        VALUES (%s, %s, %s, %s, %s)
+                        """,
+                        (vacancy['id'], vacancy['employer']['id'], vacancy['name'], 0,
+                         vacancy['alternate_url'])
+                    )
+                else:
+                    cur.execute(
+                        """
+                        INSERT INTO vacancies (vacancy_id, employer_id, vacancy_name, salary_from, vacancy_url)
+                        VALUES (%s, %s, %s, %s, %s)
+                        """,
+                        (vacancy['id'], vacancy['employer']['id'], vacancy['name'], vacancy['salary']['from'],
+                         vacancy['alternate_url'])
+                    )
 
     conn.commit()
     conn.close()
