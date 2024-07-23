@@ -19,18 +19,11 @@ def main():
     ]
 
     params = config()
-    #employers = getEmployers()
-
     data = get_hh_ru_data(company_ids)
-    #print(data)
-    #date_2 = get_employer(company_ids)
-    #print(date_2)
     create_database('hh', params)
     save_data_to_database_emp(data, 'hh', params)
     save_data_to_database_vac(data, 'hh', params)
-    #word = 'PYTH'
-    #w = word.upper()
-    #print(word.title())
+
     db_manager = DBManager(params)
     print(f"Выберите запрос: \n"
           f"1 - Список всех компаний и количество вакансий у каждой компании\n"
